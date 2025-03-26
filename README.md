@@ -21,13 +21,13 @@ I’m a software engineer with experience across backend, mobile, and data engin
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter_Notebooks-F37626?logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-000000?logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/CrewAI-000000?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EF6C00?logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-83B81A?logo=llama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-83B81A?logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/DSPy-FF9900?logo=python&logoColor=white" />
 </p>
@@ -46,12 +46,12 @@ I’m a software engineer with experience across backend, mobile, and data engin
 ### ☁️ Data Engineering & Big Data
 <p>
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/Zeppelin_Notebooks-2D2D2D?logo=apachezeppelin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Iceberg-0E8A16?logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Iceberg-0E8A16?logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/EMR%20Serverless-FF9900?logo=amazonaws&logoColor=white" />
 </p>
 
