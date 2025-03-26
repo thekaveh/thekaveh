@@ -24,19 +24,20 @@ I’m a software engineer with experience across backend, mobile, and data engin
   <img src="https://img.shields.io/badge/LangChain-000000?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter_Notebooks-F37626?logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-000000?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-000000?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EF6C00?logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-83B81A?logo=llama&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSPy-FF9900?logo=python&logoColor=white" />
 </p>
 
 ### 🔨 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Objective--C-000000?logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white" />
@@ -49,7 +50,7 @@ I’m a software engineer with experience across backend, mobile, and data engin
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/S3-569A31?logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zeppelin-2D2D2D?logo=apachezeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zeppelin_Notebooks-2D2D2D?logo=apachezeppelin&logoColor=white" />
   <img src="https://img.shields.io/badge/Iceberg-0E8A16?logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/EMR%20Serverless-FF9900?logo=amazonaws&logoColor=white" />
 </p>
@@ -64,9 +65,9 @@ I’m a software engineer with experience across backend, mobile, and data engin
   <img src="https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/SBT-FF69B4?logo=scala&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cline-000000?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-000000?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-5436DA?logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cline-2D2D2D?logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-FFD700?logo=anthropic&logoColor=black" />
   <img src="https://img.shields.io/badge/UV-000000?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SourceTree-0052CC?logo=sourcetree&logoColor=white" />
 </p>
@@ -74,6 +75,8 @@ I’m a software engineer with experience across backend, mobile, and data engin
 ### 🗃️ Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgAdmin-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white" />
@@ -92,6 +95,7 @@ I’m a software engineer with experience across backend, mobile, and data engin
   <img src="https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Silverlight-9B4F96?logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Xamarin-3498DB?logo=xamarin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shiny-00ADD8?logo=rstudio&logoColor=white" />
 </p>
 
 ---
