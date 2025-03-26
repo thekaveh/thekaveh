@@ -36,7 +36,7 @@ I’m a software engineer with experience across backend, mobile, and data engin
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Objective--C-000000?logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
