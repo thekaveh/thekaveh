@@ -317,7 +317,7 @@ kaveh@github:~$ ./connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=1A1B26)](https://linkedin.com/in/kavehrazavi)
 [![Email](https://img.shields.io/badge/Email-9ECE6A?style=for-the-badge&logo=gmail&logoColor=1A1B26)](mailto:kaveh.razavi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BB9AF7?style=for-the-badge&logo=github&logoColor=1A1B26)](https://github.com/kavehrazavi)
+[![GitHub](https://img.shields.io/badge/GitHub-BB9AF7?style=for-the-badge&logo=github&logoColor=1A1B26)](https://github.com/thekaveh)
 
 </div>
 
