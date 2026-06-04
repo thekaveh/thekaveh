@@ -147,28 +147,20 @@ kaveh@github:~$ cat ~/skills/backend-apis-ui.md
   <img src="https://img.shields.io/badge/Silverlight-9B4F96?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
 
-### 🧰 Tools, Platforms & Databases
+### 🛰️ 04 · Cloud & Distributed
+
+```console
+kaveh@github:~$ cat ~/skills/cloud-distributed.md
+```
+
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker--compose-384D54?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/SBT-DC322F?style=flat-square&logo=scala&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-5436DA?style=flat-square&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cline-2D2D2D?style=flat-square&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-1A1B26?style=flat-square&logo=anthropic&logoColor=BB9AF7" />
-  <img src="https://img.shields.io/badge/UV-000000?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kong-002659?style=flat-square&logo=kong&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ray-028CF0?style=flat-square&logo=ray&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
 </p>
 
 ### 🌐 Web & UI Development
