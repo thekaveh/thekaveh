@@ -76,7 +76,7 @@ The README has **six sections** inside the terminal frame plus a footer:
 1. **Hero** — SVG block-art `KAVEH` + tagline.
 2. **Identity card** — TypeScript-style object literal showing role, education, focus.
 3. **Mission** — single `$ ./mission --current` prompt + one-line manifesto.
-4. **Now Shipping** — five featured-project cards (3 + 2 layout).
+4. **Projects** — five featured-project cards (3 + 2 layout).
 5. **Skills** — 7 categories of categorized badge clusters (the main keep + expansion).
 6. **Connect** — `$ ./connect` prompt + LinkedIn / Email / GitHub badges.
 7. **Footer comment** — HTML comment + a single muted byline.
@@ -154,7 +154,7 @@ kaveh@github:~$ ./mission --current
 
 One-liner manifesto, kept verbatim from current draft. The `>` answer line stays in the console fence so syntax highlighting renders it bold-grey on dark.
 
-### 4.4 Now Shipping — project cards
+### 4.4 Projects — project cards
 
 A new section. Five featured projects rendered as a card grid via an HTML table inside the markdown (GitHub supports `<table>`; CSS is ignored but cells render). Use a **3 + 2 layout** (row 1: three cards, row 2: two cards, left-aligned) rather than a single 5-column row — five-across makes each card too narrow on standard GitHub viewport widths.
 
@@ -169,7 +169,7 @@ A new section. Five featured projects rendered as a card grid via an HTML table 
 | 5 | `ml-lab`         | Personal ML lab — portfolio of self-contained `[task]-[dataset]-[model]-[framework]` experiments built on `nnx`.    | `https://github.com/thekaveh/ml-lab`         |
 
 Card content per project:
-- Prompt header above the grid: `$ ls ~/now-shipping/`
+- Prompt header above the grid: `$ ls ~/projects/`
 - Card title with `▸` glyph and project name (purple `#BB9AF7`).
 - One-line description (muted `#565F89`).
 - "Open in GitHub" link rendered as a small badge under the description.
@@ -342,7 +342,7 @@ The implementation is "done" when all of the following are true:
 1. **Hero renders correctly on github.com** for both the logged-in and anonymous view of `https://github.com/kavehrazavi`. Block-art letters show the per-row gradient; tagline below renders in Tokyo Night colors; chrome bar shows three traffic-lights and labels.
 2. **Hero animations play** (breathing glow + blinking cursor) in browsers that render SVG with CSS keyframes — and degrade silently (static SVG) in any renderer that doesn't.
 3. **All seven skill categories appear in the documented order** with their subsections (where applicable) and exact badge sets from Section 4.5.
-4. **Now-shipping section** shows the five project cards with title + description + working link to each repo, in a 3 + 2 layout.
+4. **Projects section** shows the five project cards with title + description + working link to each repo, in a 3 + 2 layout.
 5. **Connect section** renders the three colored badges and they link to the right targets.
 6. **No third-party widgets** were added (no `github-readme-stats`, no trophies, no streaks).
 7. **No `<script>` in the SVG** — the file passes through GitHub's image proxy unmodified.
