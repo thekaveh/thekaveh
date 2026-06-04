@@ -105,7 +105,7 @@ Section divider is a horizontal rule with the dashed-line `─` style implicitly
   - Tagline row, three pieces in muted/highlighted Tokyo Night:
     - Left, cyan `#7DCFFF`: `Lead Staff Software Engineer`
     - Separator arrow, comment `#565F89`: `→`
-    - Middle, glacier `#A8D4E6`: `Machine Learning Engineer`
+    - Middle, glacier `#A8D4E6`: `ML/AI Researcher & Engineer`
     - Separator slash, comment `#565F89`: `//`
     - Right, cyan `#7DCFFF`: `GenAI · Distributed Systems · Automation`
 
