@@ -1,17 +1,21 @@
-<svg width="960" height="420" viewBox="0 0 960 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Kaveh terminal profile hero</title>
-  <desc id="desc">A dark terminal-style GitHub profile hero. The block-art logo reads Kaveh and uses the GenAI Vanilla LOGO_GRADIENT palette: #4A9EFF, #7DCFFF, #A8D4E6, #B4F9F8. Subtle CSS animations: breathing glow on the letters and a blinking cursor on the prompt line.</desc>
+<svg width="960" height="920" viewBox="0 0 960 920" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Kaveh — Tokyo Night terminal profile</title>
+  <desc id="desc">A dark terminal-style GitHub profile hero. The block-art logo reads KAVEH and uses the GenAI Vanilla LOGO_GRADIENT palette: #4A9EFF, #7DCFFF, #A8D4E6, #B4F9F8. Below the hero: an identity card (TypeScript object) and a mission line, all styled in Tokyo Night.</desc>
 
   <defs>
-    <radialGradient id="ambientBlue" cx="18%" cy="12%" r="74%">
-      <stop offset="0%" stop-color="#4A9EFF" stop-opacity="0.20"/>
+    <radialGradient id="ambientBlue" cx="18%" cy="6%" r="74%">
+      <stop offset="0%" stop-color="#4A9EFF" stop-opacity="0.22"/>
       <stop offset="48%" stop-color="#0B0D13" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="ambientCyan" cx="82%" cy="18%" r="70%">
-      <stop offset="0%" stop-color="#7DCFFF" stop-opacity="0.14"/>
+    <radialGradient id="ambientCyan" cx="82%" cy="10%" r="70%">
+      <stop offset="0%" stop-color="#7DCFFF" stop-opacity="0.16"/>
       <stop offset="58%" stop-color="#0B0D13" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="frameStroke" x1="46" y1="42" x2="914" y2="378" gradientUnits="userSpaceOnUse">
+    <radialGradient id="ambientPurple" cx="50%" cy="92%" r="60%">
+      <stop offset="0%" stop-color="#BB9AF7" stop-opacity="0.10"/>
+      <stop offset="60%" stop-color="#0B0D13" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="frameStroke" x1="46" y1="42" x2="914" y2="878" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#4A9EFF" stop-opacity="0.88"/>
       <stop offset="35%" stop-color="#7DCFFF" stop-opacity="0.78"/>
       <stop offset="70%" stop-color="#A8D4E6" stop-opacity="0.62"/>
@@ -22,9 +26,9 @@
       <stop offset="55%" stop-color="#1A1E30"/>
       <stop offset="100%" stop-color="#11131D"/>
     </linearGradient>
-    <filter id="rowGlow" x="-8%" y="-35%" width="116%" height="170%">
-      <feGaussianBlur stdDeviation="1.4" result="blur">
-        <animate attributeName="stdDeviation" values="1.2;2.0;1.2" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.42,0,0.58,1;0.42,0,0.58,1"/>
+    <filter id="blockGlow" x="-3%" y="-12%" width="106%" height="124%">
+      <feGaussianBlur stdDeviation="1.8" result="blur">
+        <animate attributeName="stdDeviation" values="1.4;2.6;1.4" dur="5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.42,0,0.58,1;0.42,0,0.58,1"/>
       </feGaussianBlur>
       <feMerge>
         <feMergeNode in="blur"/>
@@ -32,52 +36,129 @@
       </feMerge>
     </filter>
     <style>
-      .tiny { font-family: 'JetBrains Mono', 'SFMono-Regular', 'Cascadia Code', 'Menlo', 'Consolas', monospace; font-size: 12px; letter-spacing: 0.04em; }
-      .prompt { font-family: 'JetBrains Mono', 'SFMono-Regular', 'Cascadia Code', 'Menlo', 'Consolas', monospace; font-size: 15px; letter-spacing: 0.05em; }
-      .logo { font-family: 'JetBrains Mono', 'SFMono-Regular', 'Cascadia Code', 'Menlo', 'Consolas', monospace; font-size: 28px; font-weight: 800; letter-spacing: -1.25px; }
-      .cursor { animation: blink 1.1s steps(1) infinite; }
+      .tiny    { font: 12px 'JetBrains Mono','SFMono-Regular','Cascadia Code','Menlo','Consolas',monospace; letter-spacing: 0.04em; }
+      .prompt  { font: 15px 'JetBrains Mono','SFMono-Regular','Cascadia Code','Menlo','Consolas',monospace; letter-spacing: 0.05em; }
+      .code    { font: 14px 'JetBrains Mono','SFMono-Regular','Cascadia Code','Menlo','Consolas',monospace; letter-spacing: 0; }
+      .cursor  { animation: blink 1.1s steps(1) infinite; }
       @keyframes blink { 0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; } }
     </style>
   </defs>
 
-  <rect width="960" height="420" rx="26" fill="#0B0D13"/>
-  <rect width="960" height="420" rx="26" fill="url(#ambientBlue)"/>
-  <rect width="960" height="420" rx="26" fill="url(#ambientCyan)"/>
+  <!-- background layers -->
+  <rect width="960" height="920" rx="26" fill="#0B0D13"/>
+  <rect width="960" height="920" rx="26" fill="url(#ambientBlue)"/>
+  <rect width="960" height="920" rx="26" fill="url(#ambientCyan)"/>
+  <rect width="960" height="920" rx="26" fill="url(#ambientPurple)"/>
 
-  <g opacity="0.22">
-    <path d="M70 330H890" stroke="#4A9EFF" stroke-width="1" stroke-dasharray="4 12"/>
-    <path d="M70 288H890" stroke="#414868" stroke-width="1" stroke-dasharray="2 14"/>
-    <path d="M70 132H890" stroke="#414868" stroke-width="1" stroke-dasharray="2 14"/>
-    <path d="M142 70V360" stroke="#414868" stroke-width="1" stroke-dasharray="3 16"/>
-    <path d="M818 70V360" stroke="#414868" stroke-width="1" stroke-dasharray="3 16"/>
+  <!-- subtle decorative grid -->
+  <g opacity="0.18">
+    <path d="M70 380H890" stroke="#414868" stroke-width="1" stroke-dasharray="2 14"/>
+    <path d="M70 440H890" stroke="#414868" stroke-width="1" stroke-dasharray="2 14"/>
+    <path d="M70 760H890" stroke="#414868" stroke-width="1" stroke-dasharray="2 14"/>
+    <path d="M142 70V860" stroke="#414868" stroke-width="1" stroke-dasharray="3 16"/>
+    <path d="M818 70V860" stroke="#414868" stroke-width="1" stroke-dasharray="3 16"/>
   </g>
 
-  <rect x="46" y="42" width="868" height="336" rx="18" fill="#0E0F18" stroke="url(#frameStroke)" stroke-width="1.4"/>
+  <!-- terminal-window frame -->
+  <rect x="46" y="42" width="868" height="836" rx="18" fill="#0E0F18" stroke="url(#frameStroke)" stroke-width="1.4"/>
   <rect x="47" y="43" width="866" height="54" rx="17" fill="url(#terminalTop)"/>
   <path d="M47 97H913" stroke="#2B2F4A" stroke-width="1"/>
 
+  <!-- traffic lights -->
   <circle cx="78" cy="70" r="7" fill="#F7768E"/>
   <circle cx="102" cy="70" r="7" fill="#E0AF68"/>
   <circle cx="126" cy="70" r="7" fill="#98C379"/>
 
+  <!-- chrome labels -->
   <text x="154" y="75" class="tiny" fill="#565F89">kaveh@github:~/profile</text>
   <text x="735" y="75" class="tiny" fill="#7DCFFF">BLOCKLOGO · LOGO_GRADIENT</text>
 
+  <!-- prompt line above block art -->
   <text x="82" y="132" class="prompt" fill="#7DCFFF">$ render_name --text KAVEH --style block-logo --gradient logo<tspan class="cursor" dx="6" fill="#B4F9F8">█</tspan></text>
 
-  <g class="logo" filter="url(#rowGlow)">
-    <text x="78" y="184" fill="#4A9EFF">██╗  ██╗ █████╗ ██╗   ██╗███████╗██╗  ██╗</text>
-    <text x="78" y="222" fill="#7DCFFF">██║ ██╔╝██╔══██╗██║   ██║██╔════╝██║  ██║</text>
-    <text x="78" y="260" fill="#A8D4E6">█████╔╝ ███████║██║   ██║█████╗  ███████║</text>
-    <text x="78" y="298" fill="#B4F9F8">██╔═██╗ ██╔══██║╚██╗ ██╔╝██╔══╝  ██╔══██║</text>
-    <text x="78" y="336" fill="#A8D4E6">██║  ██╗██║  ██║ ╚████╔╝ ███████╗██║  ██║</text>
-    <text x="78" y="374" fill="#7DCFFF">╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝</text>
+  <!-- KAVEH block-art as rectangles · cell 16×32 · x=152..808 · y=160..352 -->
+  <g filter="url(#blockGlow)" shape-rendering="crispEdges">
+    <!-- Row 1 · #4A9EFF -->
+    <rect x="152" y="160" width="48"  height="32" fill="#4A9EFF"/>
+    <rect x="232" y="160" width="48"  height="32" fill="#4A9EFF"/>
+    <rect x="296" y="160" width="96"  height="32" fill="#4A9EFF"/>
+    <rect x="408" y="160" width="48"  height="32" fill="#4A9EFF"/>
+    <rect x="504" y="160" width="224" height="32" fill="#4A9EFF"/>
+    <rect x="760" y="160" width="48"  height="32" fill="#4A9EFF"/>
+
+    <!-- Row 2 · #7DCFFF -->
+    <rect x="152" y="192" width="48"  height="32" fill="#7DCFFF"/>
+    <rect x="216" y="192" width="192" height="32" fill="#7DCFFF"/>
+    <rect x="408" y="192" width="48"  height="32" fill="#7DCFFF"/>
+    <rect x="504" y="192" width="224" height="32" fill="#7DCFFF"/>
+    <rect x="760" y="192" width="48"  height="32" fill="#7DCFFF"/>
+
+    <!-- Row 3 · #A8D4E6 -->
+    <rect x="152" y="224" width="112" height="32" fill="#A8D4E6"/>
+    <rect x="280" y="224" width="176" height="32" fill="#A8D4E6"/>
+    <rect x="504" y="224" width="144" height="32" fill="#A8D4E6"/>
+    <rect x="680" y="224" width="128" height="32" fill="#A8D4E6"/>
+
+    <!-- Row 4 · #B4F9F8 (brightest glacier highlight) -->
+    <rect x="152" y="256" width="112" height="32" fill="#B4F9F8"/>
+    <rect x="280" y="256" width="192" height="32" fill="#B4F9F8"/>
+    <rect x="488" y="256" width="160" height="32" fill="#B4F9F8"/>
+    <rect x="680" y="256" width="128" height="32" fill="#B4F9F8"/>
+
+    <!-- Row 5 · #A8D4E6 -->
+    <rect x="152" y="288" width="48"  height="32" fill="#A8D4E6"/>
+    <rect x="232" y="288" width="96"  height="32" fill="#A8D4E6"/>
+    <rect x="360" y="288" width="48"  height="32" fill="#A8D4E6"/>
+    <rect x="424" y="288" width="112" height="32" fill="#A8D4E6"/>
+    <rect x="552" y="288" width="176" height="32" fill="#A8D4E6"/>
+    <rect x="760" y="288" width="48"  height="32" fill="#A8D4E6"/>
+
+    <!-- Row 6 · #7DCFFF -->
+    <rect x="152" y="320" width="48"  height="32" fill="#7DCFFF"/>
+    <rect x="232" y="320" width="96"  height="32" fill="#7DCFFF"/>
+    <rect x="360" y="320" width="48"  height="32" fill="#7DCFFF"/>
+    <rect x="440" y="320" width="80"  height="32" fill="#7DCFFF"/>
+    <rect x="552" y="320" width="176" height="32" fill="#7DCFFF"/>
+    <rect x="760" y="320" width="48"  height="32" fill="#7DCFFF"/>
   </g>
 
-  <rect x="78" y="390" width="804" height="1" fill="#2B2F4A" opacity="0.8"/>
-  <text x="78" y="409" class="tiny" fill="#7DCFFF">Lead Staff Software Engineer</text>
-  <text x="286" y="409" class="tiny" fill="#565F89">→</text>
-  <text x="310" y="409" class="tiny" fill="#A8D4E6">ML/AI Researcher &amp; Engineer</text>
-  <text x="540" y="409" class="tiny" fill="#565F89">//</text>
-  <text x="568" y="409" class="tiny" fill="#7DCFFF">GenAI · Distributed Systems · Automation</text>
+  <!-- divider under block art -->
+  <rect x="78" y="378" width="804" height="1" fill="#2B2F4A" opacity="0.8"/>
+
+  <!-- tagline strip -->
+  <text x="78"  y="402" class="tiny" fill="#7DCFFF">Lead Staff Software Engineer</text>
+  <text x="286" y="402" class="tiny" fill="#565F89">→</text>
+  <text x="310" y="402" class="tiny" fill="#A8D4E6">ML/AI Researcher &amp; Engineer</text>
+  <text x="538" y="402" class="tiny" fill="#565F89">//</text>
+  <text x="562" y="402" class="tiny" fill="#7DCFFF">GenAI · Distributed Systems · Automation</text>
+
+  <!-- divider above identity card -->
+  <rect x="78" y="430" width="804" height="1" fill="#2B2F4A" opacity="0.5"/>
+
+  <!-- identity card prompt -->
+  <text x="82" y="460" class="prompt" fill="#7DCFFF">$ cat ./identity.ts</text>
+
+  <!-- TS identity card · Tokyo Night syntax tokens -->
+  <text x="82" y="490" class="code"><tspan fill="#BB9AF7">const</tspan><tspan fill="#7AA2F7"> kaveh</tspan><tspan fill="#C0CAF5"> = {</tspan></text>
+  <text x="82" y="512" class="code"><tspan fill="#7DCFFF">  role</tspan><tspan fill="#C0CAF5">: </tspan><tspan fill="#9ECE6A">"Lead Staff Software Engineer | Data &amp; ML Engineering"</tspan><tspan fill="#C0CAF5">,</tspan></text>
+  <text x="82" y="534" class="code"><tspan fill="#7DCFFF">  trajectory</tspan><tspan fill="#C0CAF5">: </tspan><tspan fill="#9ECE6A">"Software Engineering → ML/AI Research &amp; Engineering"</tspan><tspan fill="#C0CAF5">,</tspan></text>
+  <text x="82" y="556" class="code"><tspan fill="#7DCFFF">  education</tspan><tspan fill="#C0CAF5">: [</tspan></text>
+  <text x="82" y="578" class="code"><tspan fill="#9ECE6A">    "M.Eng Machine Learning @ Virginia Tech"</tspan><tspan fill="#C0CAF5">,</tspan></text>
+  <text x="82" y="600" class="code"><tspan fill="#9ECE6A">    "M.Sc Software Engineering @ George Mason University"</tspan></text>
+  <text x="82" y="622" class="code" fill="#C0CAF5">  ],</text>
+  <text x="82" y="644" class="code"><tspan fill="#7DCFFF">  currentFocus</tspan><tspan fill="#C0CAF5">: [</tspan></text>
+  <text x="82" y="666" class="code"><tspan fill="#9ECE6A">    "GenAI systems"</tspan><tspan fill="#C0CAF5">, </tspan><tspan fill="#9ECE6A">"distributed data platforms"</tspan><tspan fill="#C0CAF5">,</tspan></text>
+  <text x="82" y="688" class="code"><tspan fill="#9ECE6A">    "automation tooling"</tspan><tspan fill="#C0CAF5">, </tspan><tspan fill="#9ECE6A">"clean, scalable architectures"</tspan></text>
+  <text x="82" y="710" class="code" fill="#C0CAF5">  ],</text>
+  <text x="82" y="732" class="code"><tspan fill="#7DCFFF">  operatingMode</tspan><tspan fill="#C0CAF5">: </tspan><tspan fill="#9ECE6A">"ship useful systems, keep the architecture clean, automate the boring parts"</tspan></text>
+  <text x="82" y="754" class="code" fill="#C0CAF5">};</text>
+
+  <!-- divider above mission -->
+  <rect x="78" y="784" width="804" height="1" fill="#2B2F4A" opacity="0.5"/>
+
+  <!-- mission prompt -->
+  <text x="82" y="813" class="prompt" fill="#7DCFFF">$ ./mission --current</text>
+
+  <!-- mission line -->
+  <text x="82" y="845" class="code"><tspan fill="#7DCFFF">▸ </tspan><tspan fill="#C0CAF5">Building scalable systems that turn data, models, and automation into practical leverage.</tspan></text>
 </svg>

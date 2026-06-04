@@ -2,33 +2,6 @@
   <img src="./assets/profile-hero.svg" alt="Kaveh — Tokyo Night terminal profile hero" width="100%" />
 </div>
 
----
-
-```ts
-const kaveh = {
-  role: "Lead Staff Software Engineer | Data & ML Engineering",
-  trajectory: "Software Engineering → ML/AI Research & Engineering",
-  education: [
-    "M.Eng Machine Learning @ Virginia Tech",
-    "M.Sc Software Engineering @ George Mason University"
-  ],
-  currentFocus: [
-    "GenAI systems",
-    "distributed data platforms",
-    "automation tooling",
-    "clean, scalable architectures"
-  ],
-  operatingMode: "ship useful systems, keep the architecture clean, automate the boring parts"
-};
-```
-
-```console
-kaveh@github:~$ ./mission --current
-> Building scalable systems that turn data, models, and automation into practical leverage.
-```
-
----
-
 ## ▸ Projects
 
 ```console
