@@ -76,7 +76,7 @@ The README has **six sections** inside the terminal frame plus a footer:
 1. **Hero** — SVG block-art `KAVEH` + tagline.
 2. **Identity card** — TypeScript-style object literal showing role, education, focus.
 3. **Mission** — single `$ ./mission --current` prompt + one-line manifesto.
-4. **Now Shipping** — three featured-project cards.
+4. **Now Shipping** — five featured-project cards (3 + 2 layout).
 5. **Skills** — 7 categories of categorized badge clusters (the main keep + expansion).
 6. **Connect** — `$ ./connect` prompt + LinkedIn / Email / GitHub badges.
 7. **Footer comment** — HTML comment + a single muted byline.
@@ -156,21 +156,27 @@ One-liner manifesto, kept verbatim from current draft. The `>` answer line stays
 
 ### 4.4 Now Shipping — project cards
 
-A new section. Three featured projects rendered as a 3-column grid via a small HTML table inside the markdown (GitHub supports `<table>`; CSS is ignored but cells render).
+A new section. Five featured projects rendered as a card grid via an HTML table inside the markdown (GitHub supports `<table>`; CSS is ignored but cells render). Use a **3 + 2 layout** (row 1: three cards, row 2: two cards, left-aligned) rather than a single 5-column row — five-across makes each card too narrow on standard GitHub viewport widths.
 
-**Projects (initial set — confirm with user during implementation if any swap):**
+**Projects (full set, in order):**
 
-| Project          | Why it's featured                                                                              | URL                                          |
-|------------------|------------------------------------------------------------------------------------------------|----------------------------------------------|
-| `genai-vanilla`  | Modular GenAI stack with a Textual TUI bootstrapper; orchestrates 30+ services.                | `https://github.com/thekaveh/genai-vanilla`  |
-| `GuideArch`      | Fuzzy TOPSIS architecture-decision tool shipped as three concurrent implementations.            | `https://github.com/thekaveh/GuideArch`      |
-| `NNx`            | PyTorch training / eval / visualization toolkit with first-class GNN support.                   | `https://github.com/thekaveh/NNx`            |
+| # | Project          | One-line description                                                                                                | URL                                          |
+|---|------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| 1 | `genai-vanilla`  | Modular GenAI stack with a Textual TUI bootstrapper — orchestrates 30+ services.                                    | `https://github.com/thekaveh/genai-vanilla`  |
+| 2 | `GuideArch`      | Fuzzy TOPSIS architecture-decision tool — three concurrent implementations sharing one spec.                         | `https://github.com/thekaveh/GuideArch`      |
+| 3 | `NNx`            | PyTorch training / eval / visualization toolkit with first-class GNN support.                                       | `https://github.com/thekaveh/NNx`            |
+| 4 | `VMx`            | Lifecycle-aware MVVM framework — one spec, four language flavors (C# · Python · TypeScript · Swift), 232 conformance tests. | `https://github.com/thekaveh/VMx`        |
+| 5 | `ml-lab`         | Personal ML lab — portfolio of self-contained `[task]-[dataset]-[model]-[framework]` experiments built on `nnx`.    | `https://github.com/thekaveh/ml-lab`         |
 
 Card content per project:
 - Prompt header above the grid: `$ ls ~/now-shipping/`
 - Card title with `▸` glyph and project name (purple `#BB9AF7`).
 - One-line description (muted `#565F89`).
 - "Open in GitHub" link rendered as a small badge under the description.
+
+Row layout in the HTML table:
+- Row 1 (`<tr>`): cards 1, 2, 3 (genai-vanilla · GuideArch · NNx).
+- Row 2 (`<tr>`): cards 4, 5, and one empty `<td>` to keep column widths consistent (VMx · ml-lab · —).
 
 ### 4.5 Skills — 7 categories, ~129 badges
 
@@ -336,7 +342,7 @@ The implementation is "done" when all of the following are true:
 1. **Hero renders correctly on github.com** for both the logged-in and anonymous view of `https://github.com/kavehrazavi`. Block-art letters show the per-row gradient; tagline below renders in Tokyo Night colors; chrome bar shows three traffic-lights and labels.
 2. **Hero animations play** (breathing glow + blinking cursor) in browsers that render SVG with CSS keyframes — and degrade silently (static SVG) in any renderer that doesn't.
 3. **All seven skill categories appear in the documented order** with their subsections (where applicable) and exact badge sets from Section 4.5.
-4. **Now-shipping section** shows the three project cards with title + description + working link to each repo.
+4. **Now-shipping section** shows the five project cards with title + description + working link to each repo, in a 3 + 2 layout.
 5. **Connect section** renders the three colored badges and they link to the right targets.
 6. **No third-party widgets** were added (no `github-readme-stats`, no trophies, no streaks).
 7. **No `<script>` in the SVG** — the file passes through GitHub's image proxy unmodified.
@@ -349,4 +355,4 @@ These don't change the design but need a decision before/during implementation:
 
 - Whether to ship the SVG as a single self-contained file or split tagline into a second SVG so the hero block can be wider on small screens. **Recommendation:** single file; SVG scales fluidly.
 - Exact `RAZAVI` ASCII glyphs are **not needed** since the locked hero is "KAVEH" alone — confirmed in brainstorming.
-- Whether to swap any project in §4.4 (`LinguAI`, `ml-lab`, etc.) for one of the three featured — current picks (`genai-vanilla`, `GuideArch`, `NNx`) reflect recency and completeness; flag at PR review.
+- Whether to add or swap any project in §4.4 — current picks (`genai-vanilla`, `GuideArch`, `NNx`, `VMx`, `ml-lab`) reflect recency and completeness; `LinguAI` is the most likely 6th if you want a 3 + 3 grid instead of 3 + 2. Flag at PR review.
