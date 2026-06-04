@@ -154,7 +154,7 @@ kaveh@github:~$ ./mission --current
 
 One-liner manifesto, kept verbatim from current draft. The `>` answer line stays in the console fence so syntax highlighting renders it bold-grey on dark.
 
-### 4.4 Projects — project cards
+### 4.4 Projects — GitHub repo cards
 
 A new section. Five featured projects rendered as a card grid via an HTML table inside the markdown (GitHub supports `<table>`; CSS is ignored but cells render). Use a **3 + 2 layout** (row 1: three cards, row 2: two cards, left-aligned) rather than a single 5-column row — five-across makes each card too narrow on standard GitHub viewport widths.
 
