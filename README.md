@@ -7,7 +7,7 @@
 ```ts
 const kaveh = {
   role: "Lead Staff Software Engineer | Data & ML Engineering",
-  trajectory: "Software Engineering → Machine Learning Engineering",
+  trajectory: "Software Engineering → ML/AI Research & Engineering",
   education: [
     "M.Eng Machine Learning @ Virginia Tech",
     "M.Sc Software Engineering @ George Mason University"
