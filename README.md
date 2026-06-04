@@ -321,4 +321,4 @@ kaveh@github:~$ ./connect
 
 </div>
 
-<!-- terminal profile: Tokyo Night palette | generated for kavehrazavi -->
+<!-- terminal profile · Tokyo Night palette · GenAI-Vanilla LOGO_GRADIENT hero · generated for kavehrazavi -->
