@@ -121,16 +121,30 @@ kaveh@github:~$ cat ~/skills/devops-tooling.md
   <img src="https://img.shields.io/badge/JupyterHub-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
 
-### ☁️ Data Engineering & Big Data
+### 🌐 03 · Backend, APIs & UI
+
+```console
+kaveh@github:~$ cat ~/skills/backend-apis-ui.md
+```
+
 <p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zeppelin-2D2D2D?style=flat-square&logo=apachezeppelin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Iceberg-0E8A16?style=flat-square&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/EMR_Serverless-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FFCC33?style=flat-square&logo=gradio&logoColor=black" />
+  <img src="https://img.shields.io/badge/NiceGUI-009688?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Textual-7DCFFF?style=flat-square&logo=python&logoColor=0B0D13" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
+  <img src="https://img.shields.io/badge/Avalonia-8B44AC?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shiny-00ADD8?style=flat-square&logo=rstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_WebForms-5C2D91?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WCF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xamarin-3498DB?style=flat-square&logo=xamarin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Silverlight-9B4F96?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
 
 ### 🧰 Tools, Platforms & Databases
