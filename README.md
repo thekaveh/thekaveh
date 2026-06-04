@@ -237,6 +237,74 @@ kaveh@github:~$ cat ~/skills/ml.md
   <img src="https://img.shields.io/badge/multi2vec--clip-A8D4E6?style=flat-square&logo=openai&logoColor=0B0D13" />
 </p>
 
+### ✨ 07 · GenAI
+
+```console
+kaveh@github:~$ cat ~/skills/genai.md
+```
+
+<sub>▸ Agent frameworks</sub>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF5A36?style=flat-square&logo=crewai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white" />
+</p>
+
+<sub>▸ Prompting & Protocols</sub>
+<p>
+  <img src="https://img.shields.io/badge/DSPy-FF9E64?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-BB9AF7?style=flat-square&logo=anthropic&logoColor=0B0D13" />
+</p>
+
+<sub>▸ LLM gateways & APIs</sub>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-1E1E1E?style=flat-square&logo=openrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteLLM-6C47FF?style=flat-square&logo=litellm&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-0F62FE?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+<sub>▸ Harnesses</sub>
+<p>
+  <img src="https://img.shields.io/badge/Cursor-5436DA?style=flat-square&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cline-2D2D2D?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-1A1B26?style=flat-square&logo=anthropic&logoColor=BB9AF7" />
+  <img src="https://img.shields.io/badge/OpenCode-0B0D13?style=flat-square&logo=opencode&logoColor=7DCFFF" />
+  <img src="https://img.shields.io/badge/KiloCode-0B0D13?style=flat-square&logo=kilo&logoColor=7DCFFF" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-7DCFFF?style=flat-square&logo=nousresearch&logoColor=0B0D13" />
+  <img src="https://img.shields.io/badge/OpenClaw-BB9AF7?style=flat-square&logo=anthropic&logoColor=0B0D13" />
+  <img src="https://img.shields.io/badge/Deep_Researcher-A8D4E6?style=flat-square&logo=langchain&logoColor=0B0D13" />
+</p>
+
+<sub>▸ RAG</sub>
+<p>
+  <img src="https://img.shields.io/badge/RAG-7DCFFF?style=flat-square&logo=databricks&logoColor=0B0D13" />
+  <img src="https://img.shields.io/badge/LightRAG-4A9EFF?style=flat-square&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG--Anything-A8D4E6?style=flat-square&logo=python&logoColor=0B0D13" />
+  <img src="https://img.shields.io/badge/Vanilla_RAG-B4F9F8?style=flat-square&logo=python&logoColor=0B0D13" />
+  <img src="https://img.shields.io/badge/Docling-0F62FE?style=flat-square&logo=ibm&logoColor=white" />
+</p>
+
+<sub>▸ GenAI Media</sub>
+<p>
+  <img src="https://img.shields.io/badge/Parakeet-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chatterbox-BB9AF7?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ComfyUI-2D2D2D?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+<sub>▸ Workflows & UIs</sub>
+<p>
+  <img src="https://img.shields.io/badge/LangFuse-FFFFFF?style=flat-square&logo=langfuse&logoColor=0B0D13" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_WebUI-FFFFFF?style=flat-square&logo=openai&logoColor=0B0D13" />
+</p>
+
 ---
 
 ```console
