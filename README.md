@@ -29,6 +29,42 @@ kaveh@github:~$ ./mission --current
 
 ---
 
+## ▸ Projects
+
+```console
+kaveh@github:~$ ls ~/projects/
+```
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>▸ <a href="https://github.com/thekaveh/genai-vanilla">genai-vanilla</a></h4>
+      <sub>Modular GenAI stack with a Textual TUI bootstrapper — orchestrates 30+ services.</sub>
+    </td>
+    <td valign="top" width="33%">
+      <h4>▸ <a href="https://github.com/thekaveh/GuideArch">GuideArch</a></h4>
+      <sub>Fuzzy TOPSIS architecture-decision tool — three concurrent implementations sharing one spec.</sub>
+    </td>
+    <td valign="top" width="33%">
+      <h4>▸ <a href="https://github.com/thekaveh/NNx">NNx</a></h4>
+      <sub>PyTorch training / eval / visualization toolkit with first-class GNN support.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>▸ <a href="https://github.com/thekaveh/VMx">VMx</a></h4>
+      <sub>Lifecycle-aware MVVM framework — one spec, four language flavors (C# · Python · TypeScript · Swift), 232 conformance tests.</sub>
+    </td>
+    <td valign="top" width="33%">
+      <h4>▸ <a href="https://github.com/thekaveh/ml-lab">ml-lab</a></h4>
+      <sub>Personal ML lab — portfolio of self-contained <code>[task]-[dataset]-[model]-[framework]</code> experiments built on <code>nnx</code>.</sub>
+    </td>
+    <td valign="top" width="33%">&nbsp;</td>
+  </tr>
+</table>
+
+---
+
 ## ▸ Systems I Work With
 
 ### 🧠 Machine Learning & GenAI
