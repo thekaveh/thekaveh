@@ -1,0 +1,54 @@
+<svg width="960" height="240" viewBox="0 0 960 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Connect section">
+
+  <defs>
+    <radialGradient id="ambientBlue" cx="18%" cy="6%" r="74%">
+      <stop offset="0%" stop-color="#4A9EFF" stop-opacity="0.18"/>
+      <stop offset="48%" stop-color="#0B0D13" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ambientCyan" cx="82%" cy="10%" r="70%">
+      <stop offset="0%" stop-color="#7DCFFF" stop-opacity="0.12"/>
+      <stop offset="58%" stop-color="#0B0D13" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ambientPurple" cx="50%" cy="94%" r="60%">
+      <stop offset="0%" stop-color="#BB9AF7" stop-opacity="0.08"/>
+      <stop offset="60%" stop-color="#0B0D13" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="frameStroke" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4A9EFF" stop-opacity="0.88"/>
+      <stop offset="50%" stop-color="#7DCFFF" stop-opacity="0.62"/>
+      <stop offset="100%" stop-color="#4A9EFF" stop-opacity="0.50"/>
+    </linearGradient>
+    <linearGradient id="terminalTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#11131D"/>
+      <stop offset="55%" stop-color="#1A1E30"/>
+      <stop offset="100%" stop-color="#11131D"/>
+    </linearGradient>
+    <style>
+      .heading { font: 600 18px "JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace; }
+      .subhead { font: 600 11px "JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace; letter-spacing: 0.15em; text-transform: uppercase; }
+      .prompt  { font: 600 13px "JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace; }
+      .body    { font: 400 13px "JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace; }
+      .small   { font: 600 11px "JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace; }
+    </style>
+  </defs>
+
+  <rect width="960" height="240" rx="20" fill="#0B0D13"/>
+  <rect width="960" height="240" rx="20" fill="url(#ambientBlue)"/>
+  <rect width="960" height="240" rx="20" fill="url(#ambientCyan)"/>
+
+  <rect x="46" y="22" width="868" height="196" rx="18" fill="#0E0F18" stroke="url(#frameStroke)" stroke-width="1.4"/>
+  <rect x="47" y="23" width="866" height="44" rx="17" fill="url(#terminalTop)"/>
+  <path d="M47 67H913" stroke="#2B2F4A" stroke-width="1"/>
+
+  <circle cx="78" cy="45" r="7" fill="#F7768E"/>
+  <circle cx="102" cy="45" r="7" fill="#E0AF68"/>
+  <circle cx="126" cy="45" r="7" fill="#98C379"/>
+
+  <text x="154" y="50" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="12" font-weight="600" fill="#565F89">kaveh@github:~/connect</text>
+  <text x="740" y="50" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="12" font-weight="600" fill="#7DCFFF" letter-spacing="0.1em">CONNECT · TOKYO NIGHT</text>
+
+  <text x="78" y="98" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="600" fill="#7DCFFF">$ ./connect</text>
+  <text x="78" y="120" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="500" fill="#C0CAF5">&gt; LinkedIn : linkedin.com/in/kavehrazavi</text>
+  <text x="78" y="140" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="500" fill="#C0CAF5">&gt; Email    : kaveh dot razavi at gmail dot com</text>
+  <text x="78" y="160" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="500" fill="#C0CAF5">&gt; GitHub   : github.com/thekaveh</text>
+</svg>
