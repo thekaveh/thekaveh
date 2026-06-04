@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="./assets/profile-hero.svg" alt="Kaveh — Tokyo Night terminal profile hero" width="100%" />
+</div>
 
 <h1 align="center">Hi, I'm Kaveh 👋</h1>
 
