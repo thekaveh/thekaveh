@@ -212,6 +212,31 @@ kaveh@github:~$ cat ~/skills/data-eng-storage.md
   <img src="https://img.shields.io/badge/MapR-005EB8?style=flat-square&logo=apache&logoColor=white" />
 </p>
 
+### 🧠 06 · Machine Learning
+
+```console
+kaveh@github:~$ cat ~/skills/ml.md
+```
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch_Geometric-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace_Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/sentence--transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Embeddings-7DCFFF?style=flat-square&logo=vectorworks&logoColor=0B0D13" />
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Diffusers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NetworkX-2C3E50?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/multi2vec--clip-A8D4E6?style=flat-square&logo=openai&logoColor=0B0D13" />
+</p>
+
 ---
 
 ```console
