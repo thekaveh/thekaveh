@@ -10,7 +10,7 @@
   <img src="./assets/section-projects.svg" alt="Projects" width="100%" />
 </div>
 
-<div align="center"><sub>Open · <a href="https://github.com/thekaveh/genai-vanilla">genai-vanilla</a> · <a href="https://github.com/thekaveh/GuideArch">GuideArch</a> · <a href="https://github.com/thekaveh/NNx">NNx</a> · <a href="https://github.com/thekaveh/VMx">VMx</a> · <a href="https://github.com/thekaveh/ml-lab">ml-lab</a></sub></div>
+<div align="center"><sub>Open · <a href="https://github.com/thekaveh/genai-vanilla">genai-vanilla</a> · <a href="https://github.com/thekaveh/GuideArch">GuideArch</a> · <a href="https://github.com/thekaveh/LinguAI">LinguAI</a> · <a href="https://github.com/thekaveh/ml-lab">ml-lab</a> · <a href="https://github.com/thekaveh/NNx">NNx</a> · <a href="https://github.com/thekaveh/VMx">VMx</a></sub></div>
 
 <div align="center">
   <img src="./assets/section-skills.svg" alt="Skills — 7 categories, 135 badges" width="100%" />
