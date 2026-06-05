@@ -21,9 +21,12 @@
     </radialGradient>
   </defs>
 
-  <!-- rounded top + surface fill extending to bottom of this image -->
+  <!-- surface fill ONLY — no stroke on this path -->
   <path d="M 0,18 A 18,18 0 0 1 18,0 L 942,0 A 18,18 0 0 1 960,18 L 960,120 L 0,120 Z"
-        fill="#0E0F18" stroke="url(#frameStroke)" stroke-width="1.4"/>
+        fill="#0E0F18"/>
+  <!-- frame stroke — left side + top arcs + top edge + right side ONLY (no bottom edge) -->
+  <path d="M 0,120 L 0,18 A 18,18 0 0 1 18,0 L 942,0 A 18,18 0 0 1 960,18 L 960,120"
+        fill="none" stroke="url(#frameStroke)" stroke-width="1.4"/>
   <!-- chrome bar -->
   <path d="M 1,18 A 17,17 0 0 1 18,1 L 942,1 A 17,17 0 0 1 959,18 L 959,54 L 1,54 Z" fill="url(#terminalTop)"/>
   <path d="M 1,54 L 959,54" stroke="#2B2F4A" stroke-width="1"/>
