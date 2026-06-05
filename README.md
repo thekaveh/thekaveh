@@ -1,4 +1,12 @@
 <div align="center">
+
+### ▸ <a href="https://thekaveh.github.io"><b>Open the interactive profile at <code>thekaveh.github.io</code></b></a> ◂
+
+<sub><em>full Tokyo Night design · live, interactive · the markdown version below is the GitHub-rendered fallback</em></sub>
+
+</div>
+
+<div align="center">
   <img src="./assets/profile-hero.svg" alt="Kaveh — Tokyo Night terminal profile hero" width="100%" />
 </div>
 
