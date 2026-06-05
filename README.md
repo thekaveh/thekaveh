@@ -23,9 +23,9 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/kavehrazavi"><img src="./assets/chips/link-linkedin.svg" alt="LinkedIn" /></a>
-  <a href="mailto:kaveh.razavi@gmail.com"><img src="./assets/chips/link-email.svg" alt="Email" /></a>
-  <a href="https://github.com/thekaveh"><img src="./assets/chips/link-github.svg" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/kavehrazavi"><img src="./assets/chips/connect-linkedin.svg" alt="LinkedIn: linkedin.com/in/kavehrazavi" /></a>
+  <a href="mailto:kaveh.razavi@gmail.com"><img src="./assets/chips/connect-email.svg" alt="Email: kaveh.razavi@gmail.com" /></a>
+  <a href="https://github.com/thekaveh"><img src="./assets/chips/connect-github.svg" alt="GitHub: github.com/thekaveh" /></a>
 </div>
 
 <!-- terminal profile · Tokyo Night palette · GenAI-Vanilla LOGO_GRADIENT hero · generated for thekaveh -->

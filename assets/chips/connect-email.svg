@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="88" viewBox="0 0 300 88" role="img" aria-label="Email: kaveh.razavi@gmail.com">
+  <rect x="1" y="1" width="298" height="86" rx="14" fill="#11131D" stroke="#9ECE6A" stroke-opacity="0.55" stroke-width="1.4"/>
+  <text x="20" y="32" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#9ECE6A" letter-spacing="0.10em">▸ Email</text>
+  <text x="20" y="58" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="12" font-weight="500" fill="#C0CAF5">kaveh.razavi@gmail.com</text>
+  <text x="280" y="58" text-anchor="end" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#9ECE6A" letter-spacing="0.10em">OPEN ▸</text>
+</svg>
