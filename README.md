@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
 <sub><a href="https://thekaveh.github.io"><code>thekaveh.github.io</code></a> ↗</sub>
 </div>
 
