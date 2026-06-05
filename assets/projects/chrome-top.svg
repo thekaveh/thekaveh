@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="108" viewBox="0 0 940 108" role="img" aria-label="Projects header">
+
+  <defs>
+    <linearGradient id="frameStroke" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4A9EFF" stop-opacity="0.88"/>
+      <stop offset="50%" stop-color="#7DCFFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#4A9EFF" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="terminalTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#11131D"/>
+      <stop offset="55%" stop-color="#1A1E30"/>
+      <stop offset="100%" stop-color="#11131D"/>
+    </linearGradient>
+    <radialGradient id="ambBlue" cx="18%" cy="6%" r="74%">
+      <stop offset="0%" stop-color="#4A9EFF" stop-opacity="0.16"/>
+      <stop offset="48%" stop-color="#0B0D13" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ambCyan" cx="82%" cy="10%" r="70%">
+      <stop offset="0%" stop-color="#7DCFFF" stop-opacity="0.12"/>
+      <stop offset="58%" stop-color="#0B0D13" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Rounded top of the frame: tall enough to also cover the chrome bar.
+       Path: top-left arc → top edge → top-right arc → straight down to bottom of image. -->
+  <path d="M 0,18 A 18,18 0 0 1 18,0 L 922,0 A 18,18 0 0 1 940,18 L 940,108 L 0,108 Z"
+        fill="#0E0F18" stroke="url(#frameStroke)" stroke-width="1.4"/>
+  <!-- chrome bar background -->
+  <path d="M 1,18 A 17,17 0 0 1 18,1 L 922,1 A 17,17 0 0 1 939,18 L 939,54 L 1,54 Z" fill="url(#terminalTop)"/>
+  <path d="M 1,54 L 939,54" stroke="#2B2F4A" stroke-width="1"/>
+  <!-- traffic lights -->
+  <circle cx="32"  cy="27.0" r="7" fill="#F7768E"/>
+  <circle cx="56"  cy="27.0" r="7" fill="#E0AF68"/>
+  <circle cx="80"  cy="27.0" r="7" fill="#98C379"/>
+  <!-- chrome label -->
+  <text x="108" y="31.0" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="12" font-weight="600" fill="#565F89">thekaveh@github:~/projects</text>
+  <!-- title + prompt -->
+  <text x="32"  y="76" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="17" font-weight="700" fill="#7DCFFF">▸ Projects</text>
+  <text x="160" y="76" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="600" fill="#7DCFFF">$ ls ~/projects/</text>
+</svg>
