@@ -1,4 +1,4 @@
-<svg width="960" height="604" viewBox="0 0 960 604" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects">
+<svg width="960" height="640" viewBox="0 0 960 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects">
 
   <defs>
     <linearGradient id="frameStroke" x1="0" y1="0" x2="0" y2="1">
@@ -21,14 +21,14 @@
     </radialGradient>
   </defs>
 
-<rect width="960" height="604" rx="22" fill="#0B0D13"/>
-<rect width="960" height="604" rx="22" fill="url(#ambBlue)"/>
-<rect width="960" height="604" rx="22" fill="url(#ambCyan)"/>
-<rect x="32" y="32" width="896" height="552" rx="14" fill="#0E0F18" stroke="#2B2F4A" stroke-width="1"/>
+<rect width="960" height="640" rx="22" fill="#0B0D13"/>
+<rect width="960" height="640" rx="22" fill="url(#ambBlue)"/>
+<rect width="960" height="640" rx="22" fill="url(#ambCyan)"/>
+<rect x="32" y="32" width="896" height="588" rx="14" fill="#0E0F18" stroke="#2B2F4A" stroke-width="1"/>
 <rect x="32" y="32" width="896" height="140" rx="14" fill="rgba(74,158,255,0.05)"/>
 <text x="56" y="64" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="22" font-weight="700" fill="#7DCFFF" letter-spacing="0.02em">▸ Projects</text>
 <text x="204" y="64" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="600" fill="#7DCFFF">$ ls ~/projects/</text>
-<rect x="56" y="88" width="272" height="210" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
+<rect x="56" y="88" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
 <rect x="56" y="88" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
 <text x="72" y="120" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ atlas</text>
   <text x="72.0" y="144" textLength="192.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Self-hosted, source-configurable</text>
@@ -39,70 +39,70 @@
   <text x="72.0" y="234" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Spark · Weaviate · Neo4j · JupyterHub ·</text>
   <text x="72.0" y="252" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Ray …) pre-wired behind Kong. Interactive</text>
   <text x="72.0" y="270" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">TUI wizard, one-command launch.</text>
-<rect x="344" y="88" width="272" height="210" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
+<rect x="344" y="88" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
 <rect x="344" y="88" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
-<text x="360" y="120" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ GuideArch</text>
-  <text x="360.0" y="144" textLength="228.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Fuzzy multi-criteria decision analysis</text>
-  <text x="360.0" y="162" textLength="210.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">(TOPSIS) for software architecture.</text>
-  <text x="360.0" y="180" textLength="168.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Three v1.0 implementations —</text>
-  <text x="360.0" y="198" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">TypeScript+Tauri+Svelte, C#+Avalonia,</text>
-  <text x="360.0" y="216" textLength="228.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Python+NiceGUI — kept in lockstep by a</text>
-  <text x="360.0" y="234" textLength="204.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">shared language-neutral spec and a</text>
-  <text x="360.0" y="252" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">1e-9-tolerance cross-impl conformance</text>
-  <text x="360.0" y="270" textLength="102.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">corpus. Built on </text>
-  <rect x="464.0" y="259" width="26.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
-  <text x="468.0" y="270" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">VMx</text>
-  <text x="492.0" y="270" textLength="36.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5"> MVVM.</text>
-<rect x="632" y="88" width="272" height="210" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
+<text x="360" y="120" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ NNx</text>
+  <text x="360.0" y="144" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Lightweight PyTorch toolkit for</text>
+  <text x="360.0" y="162" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">training, fine-tuning, and exporting</text>
+  <text x="360.0" y="180" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">modern neural nets. FFN + GNN +</text>
+  <text x="360.0" y="198" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">decoder-only LM + diffusion + JEPA +</text>
+  <text x="360.0" y="216" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">MoE; PEFT (LoRA/DoRA/IA3/Prefix/Prompt),</text>
+  <text x="360.0" y="234" textLength="156.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">PTQ/QAT, pruning, surgery;</text>
+  <text x="360.0" y="252" textLength="192.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">ONNX/GGUF/Ollama/HuggingFace Hub</text>
+  <text x="360.0" y="270" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">interop. Dataclass-configured runs with</text>
+  <text x="360.0" y="288" textLength="156.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">fluent builders, automatic</text>
+  <text x="360.0" y="306" textLength="156.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">checkpointing, Plotly viz.</text>
+<rect x="632" y="88" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
 <rect x="632" y="88" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
-<text x="648" y="120" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ LinguAI</text>
-  <text x="648.0" y="144" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">GenAI language-learning app — chat with</text>
-  <text x="648.0" y="162" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">AI personas, polyglot translation</text>
-  <text x="648.0" y="180" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">puzzles scored via embeddings, streaming</text>
-  <text x="648.0" y="198" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">content generation/rewrite/review, skill</text>
-  <text x="648.0" y="216" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">assessments. FastAPI + Postgres + Ollama</text>
-  <text x="648.0" y="234" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">backend, strict-MVVM NiceGUI + </text>
-  <rect x="836.0" y="223" width="26.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
-  <text x="840.0" y="234" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">VMx</text>
-  <text x="648.0" y="252" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">frontend, full Docker Compose stack.</text>
-<rect x="56" y="314" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
-<rect x="56" y="314" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
-<text x="72" y="346" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ ml-lab</text>
-  <text x="72.0" y="370" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Self-contained notebook portfolio for</text>
-  <text x="72.0" y="388" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">PyTorch: classical ML, GNNs, NLP,</text>
-  <text x="72.0" y="406" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">transformer LM + BPE, DDPM diffusion,</text>
-  <text x="72.0" y="424" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">DPO, JEPA, MoE, PEFT (LoRA/DoRA),</text>
-  <text x="72.0" y="442" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">PTQ/QAT quantization, pruning, KD. Each</text>
-  <rect x="74.0" y="449" width="224.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
-  <text x="78.0" y="460" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">[task]-[dataset]-[model]-[framework]</text>
-  <text x="72.0" y="478" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">folder runs end-to-end. CI-validated via</text>
-  <text x="72.0" y="496" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">shared </text>
-  <rect x="116.0" y="485" width="26.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
-  <text x="120.0" y="496" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">nnx</text>
-  <text x="144.0" y="496" textLength="54.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5"> toolkit.</text>
-<rect x="344" y="314" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
-<rect x="344" y="314" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
-<text x="360" y="346" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ NNx</text>
-  <text x="360.0" y="370" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Lightweight PyTorch toolkit for</text>
-  <text x="360.0" y="388" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">training, fine-tuning, and exporting</text>
-  <text x="360.0" y="406" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">modern neural nets. FFN + GNN +</text>
-  <text x="360.0" y="424" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">decoder-only LM + diffusion + JEPA +</text>
-  <text x="360.0" y="442" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">MoE; PEFT (LoRA/DoRA/IA3/Prefix/Prompt),</text>
-  <text x="360.0" y="460" textLength="156.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">PTQ/QAT, pruning, surgery;</text>
-  <text x="360.0" y="478" textLength="192.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">ONNX/GGUF/Ollama/HuggingFace Hub</text>
-  <text x="360.0" y="496" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">interop. Dataclass-configured runs with</text>
-  <text x="360.0" y="514" textLength="156.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">fluent builders, automatic</text>
-  <text x="360.0" y="532" textLength="156.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">checkpointing, Plotly viz.</text>
-<rect x="632" y="314" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
-<rect x="632" y="314" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
-<text x="648" y="346" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ VMx</text>
-  <text x="648.0" y="370" textLength="204.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Hierarchical, lifecycle-aware MVVM</text>
-  <text x="648.0" y="388" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">framework. One language-neutral spec,</text>
-  <text x="648.0" y="406" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">four idiomatic flavors — C#, Python,</text>
-  <text x="648.0" y="424" textLength="192.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">TypeScript (full parity) + Swift</text>
-  <text x="648.0" y="442" textLength="228.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">(documented subset) — cross-checked by</text>
-  <text x="648.0" y="460" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">232 shared conformance scenarios.</text>
-  <text x="648.0" y="478" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Reactive-first (Rx · RxJS · reactivex ·</text>
-  <text x="648.0" y="496" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Combine). Published on NuGet, PyPI, npm,</text>
-  <text x="648.0" y="514" textLength="48.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">SwiftPM.</text>
+<text x="648" y="120" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ ml-lab</text>
+  <text x="648.0" y="144" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Self-contained notebook portfolio for</text>
+  <text x="648.0" y="162" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">PyTorch: classical ML, GNNs, NLP,</text>
+  <text x="648.0" y="180" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">transformer LM + BPE, DDPM diffusion,</text>
+  <text x="648.0" y="198" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">DPO, JEPA, MoE, PEFT (LoRA/DoRA),</text>
+  <text x="648.0" y="216" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">PTQ/QAT quantization, pruning, KD. Each</text>
+  <rect x="650.0" y="223" width="224.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
+  <text x="654.0" y="234" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">[task]-[dataset]-[model]-[framework]</text>
+  <text x="648.0" y="252" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">folder runs end-to-end. CI-validated via</text>
+  <text x="648.0" y="270" textLength="42.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">shared </text>
+  <rect x="692.0" y="259" width="26.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
+  <text x="696.0" y="270" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">nnx</text>
+  <text x="720.0" y="270" textLength="54.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5"> toolkit.</text>
+<rect x="56" y="350" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
+<rect x="56" y="350" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
+<text x="72" y="382" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ VMx</text>
+  <text x="72.0" y="406" textLength="204.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Hierarchical, lifecycle-aware MVVM</text>
+  <text x="72.0" y="424" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">framework. One language-neutral spec,</text>
+  <text x="72.0" y="442" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">four idiomatic flavors — C#, Python,</text>
+  <text x="72.0" y="460" textLength="192.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">TypeScript (full parity) + Swift</text>
+  <text x="72.0" y="478" textLength="228.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">(documented subset) — cross-checked by</text>
+  <text x="72.0" y="496" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">232 shared conformance scenarios.</text>
+  <text x="72.0" y="514" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Reactive-first (Rx · RxJS · reactivex ·</text>
+  <text x="72.0" y="532" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Combine). Published on NuGet, PyPI, npm,</text>
+  <text x="72.0" y="550" textLength="48.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">SwiftPM.</text>
+<rect x="344" y="350" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
+<rect x="344" y="350" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
+<text x="360" y="382" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ GuideArch</text>
+  <text x="360.0" y="406" textLength="228.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Fuzzy multi-criteria decision analysis</text>
+  <text x="360.0" y="424" textLength="210.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">(TOPSIS) for software architecture.</text>
+  <text x="360.0" y="442" textLength="168.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Three v1.0 implementations —</text>
+  <text x="360.0" y="460" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">TypeScript+Tauri+Svelte, C#+Avalonia,</text>
+  <text x="360.0" y="478" textLength="228.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Python+NiceGUI — kept in lockstep by a</text>
+  <text x="360.0" y="496" textLength="204.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">shared language-neutral spec and a</text>
+  <text x="360.0" y="514" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">1e-9-tolerance cross-impl conformance</text>
+  <text x="360.0" y="532" textLength="102.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">corpus. Built on </text>
+  <rect x="464.0" y="521" width="26.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
+  <text x="468.0" y="532" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">VMx</text>
+  <text x="492.0" y="532" textLength="36.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5"> MVVM.</text>
+<rect x="632" y="350" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
+<rect x="632" y="350" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
+<text x="648" y="382" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ LinguAI</text>
+  <text x="648.0" y="406" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">GenAI language-learning app — chat with</text>
+  <text x="648.0" y="424" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">AI personas, polyglot translation</text>
+  <text x="648.0" y="442" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">puzzles scored via embeddings, streaming</text>
+  <text x="648.0" y="460" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">content generation/rewrite/review, skill</text>
+  <text x="648.0" y="478" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">assessments. FastAPI + Postgres + Ollama</text>
+  <text x="648.0" y="496" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">backend, strict-MVVM NiceGUI + </text>
+  <rect x="836.0" y="485" width="26.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
+  <text x="840.0" y="496" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">VMx</text>
+  <text x="648.0" y="514" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">frontend, full Docker Compose stack.</text>
 </svg>
