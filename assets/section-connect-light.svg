@@ -1,0 +1,42 @@
+<svg width="960" height="314" viewBox="0 0 960 314" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Connect">
+
+  <defs>
+    <linearGradient id="frameStroke" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2e7de9" stop-opacity="0.88"/>
+      <stop offset="50%" stop-color="#0a7ea4" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#2e7de9" stop-opacity="0.45"/>
+    </linearGradient>
+    <linearGradient id="terminalTop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f4f5f9"/>
+      <stop offset="55%" stop-color="#e3e6f0"/>
+      <stop offset="100%" stop-color="#f4f5f9"/>
+    </linearGradient>
+    <radialGradient id="ambBlue" cx="18%" cy="6%" r="74%">
+      <stop offset="0%" stop-color="#2e7de9" stop-opacity="0.16"/>
+      <stop offset="48%" stop-color="#e6e8ef" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ambCyan" cx="82%" cy="10%" r="70%">
+      <stop offset="0%" stop-color="#0a7ea4" stop-opacity="0.12"/>
+      <stop offset="58%" stop-color="#e6e8ef" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+<rect width="960" height="314" rx="22" fill="#e6e8ef"/>
+<rect width="960" height="314" rx="22" fill="url(#ambBlue)"/>
+<rect width="960" height="314" rx="22" fill="url(#ambCyan)"/>
+<rect x="46" y="42" width="868" height="230" rx="18" fill="#eef0f5" stroke="url(#frameStroke)" stroke-width="1.4"/>
+<rect x="47" y="43" width="866" height="54" rx="17" fill="url(#terminalTop)"/>
+<path d="M47 97H913" stroke="#c2c7db" stroke-width="1"/>
+<circle cx="78"  cy="70" r="7" fill="#e0356a"/>
+<circle cx="102" cy="70" r="7" fill="#c8881e"/>
+<circle cx="126" cy="70" r="7" fill="#5a9e3f"/>
+<text x="154" y="75" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="12" font-weight="600" fill="#6b73a0">thekaveh@github:~/connect</text>
+<text x="76" y="130" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="17" font-weight="700" fill="#0a7ea4">▸ Connect</text>
+<text x="206" y="130" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="600" fill="#0a7ea4">$ ./connect</text>
+  <text x="76" y="168" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="700" fill="#3b6fd4" letter-spacing="0.05em">▸ LinkedIn</text>
+  <text x="206" y="168" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="500" fill="#2b3052">linkedin.com/in/kavehrazavi</text>
+  <text x="76" y="210" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="700" fill="#5a8a2f" letter-spacing="0.05em">▸ Email   </text>
+  <text x="206" y="210" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="500" fill="#2b3052">kaveh.razavi@gmail.com</text>
+  <text x="76" y="252" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="700" fill="#7847bd" letter-spacing="0.05em">▸ GitHub  </text>
+  <text x="206" y="252" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="13" font-weight="500" fill="#2b3052">github.com/thekaveh</text>
+</svg>
