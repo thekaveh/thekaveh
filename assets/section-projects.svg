@@ -1,4 +1,4 @@
-<svg width="960" height="640" viewBox="0 0 960 640" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects">
+<svg width="960" height="902" viewBox="0 0 960 902" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Projects">
 
   <defs>
     <linearGradient id="frameStroke" x1="0" y1="0" x2="0" y2="1">
@@ -21,10 +21,10 @@
     </radialGradient>
   </defs>
 
-<rect width="960" height="640" rx="22" fill="#0B0D13"/>
-<rect width="960" height="640" rx="22" fill="url(#ambBlue)"/>
-<rect width="960" height="640" rx="22" fill="url(#ambCyan)"/>
-<rect x="32" y="32" width="896" height="588" rx="14" fill="#0E0F18" stroke="#2B2F4A" stroke-width="1"/>
+<rect width="960" height="902" rx="22" fill="#0B0D13"/>
+<rect width="960" height="902" rx="22" fill="url(#ambBlue)"/>
+<rect width="960" height="902" rx="22" fill="url(#ambCyan)"/>
+<rect x="32" y="32" width="896" height="850" rx="14" fill="#0E0F18" stroke="#2B2F4A" stroke-width="1"/>
 <rect x="32" y="32" width="896" height="140" rx="14" fill="rgba(74,158,255,0.05)"/>
 <text x="56" y="64" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="22" font-weight="700" fill="#7DCFFF" letter-spacing="0.02em">▸ Projects</text>
 <text x="204" y="64" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="600" fill="#7DCFFF">$ ls ~/projects/</text>
@@ -81,28 +81,38 @@
   <text x="72.0" y="550" textLength="48.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">SwiftPM.</text>
 <rect x="344" y="350" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
 <rect x="344" y="350" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
-<text x="360" y="382" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ GuideArch</text>
-  <text x="360.0" y="406" textLength="228.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Fuzzy multi-criteria decision analysis</text>
-  <text x="360.0" y="424" textLength="210.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">(TOPSIS) for software architecture.</text>
-  <text x="360.0" y="442" textLength="168.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Three v1.0 implementations —</text>
-  <text x="360.0" y="460" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">TypeScript+Tauri+Svelte, C#+Avalonia,</text>
-  <text x="360.0" y="478" textLength="228.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Python+NiceGUI — kept in lockstep by a</text>
-  <text x="360.0" y="496" textLength="204.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">shared language-neutral spec and a</text>
-  <text x="360.0" y="514" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">1e-9-tolerance cross-impl conformance</text>
-  <text x="360.0" y="532" textLength="102.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">corpus. Built on </text>
-  <rect x="464.0" y="521" width="26.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
-  <text x="468.0" y="532" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">VMx</text>
-  <text x="492.0" y="532" textLength="36.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5"> MVVM.</text>
+<text x="360" y="382" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ aws-tui</text>
+  <text x="360.0" y="406" textLength="192.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Cross-platform Norton-Commander-</text>
+  <text x="360.0" y="424" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">style TUI for AWS and S3-compatible</text>
+  <text x="360.0" y="442" textLength="210.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">services. Runs on macOS, Linux, and</text>
+  <text x="360.0" y="460" textLength="174.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Windows. Powered by Textual +</text>
+  <rect x="360.0" y="467" width="26.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
+  <text x="364.0" y="478" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">VMx</text>
+  <text x="390.0" y="478" textLength="36.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5"> MVVM.</text>
 <rect x="632" y="350" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
 <rect x="632" y="350" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
-<text x="648" y="382" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ LinguAI</text>
-  <text x="648.0" y="406" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">GenAI language-learning app — chat with</text>
-  <text x="648.0" y="424" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">AI personas, polyglot translation</text>
-  <text x="648.0" y="442" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">puzzles scored via embeddings, streaming</text>
-  <text x="648.0" y="460" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">content generation/rewrite/review, skill</text>
-  <text x="648.0" y="478" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">assessments. FastAPI + Postgres + Ollama</text>
-  <text x="648.0" y="496" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">backend, strict-MVVM NiceGUI + </text>
-  <rect x="836.0" y="485" width="26.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
-  <text x="840.0" y="496" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">VMx</text>
-  <text x="648.0" y="514" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">frontend, full Docker Compose stack.</text>
+<text x="648" y="382" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ GuideArch</text>
+  <text x="648.0" y="406" textLength="228.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Fuzzy multi-criteria decision analysis</text>
+  <text x="648.0" y="424" textLength="210.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">(TOPSIS) for software architecture.</text>
+  <text x="648.0" y="442" textLength="168.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Three v1.0 implementations —</text>
+  <text x="648.0" y="460" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">TypeScript+Tauri+Svelte, C#+Avalonia,</text>
+  <text x="648.0" y="478" textLength="228.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">Python+NiceGUI — kept in lockstep by a</text>
+  <text x="648.0" y="496" textLength="204.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">shared language-neutral spec and a</text>
+  <text x="648.0" y="514" textLength="222.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">1e-9-tolerance cross-impl conformance</text>
+  <text x="648.0" y="532" textLength="102.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">corpus. Built on </text>
+  <rect x="752.0" y="521" width="26.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
+  <text x="756.0" y="532" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">VMx</text>
+  <text x="780.0" y="532" textLength="36.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5"> MVVM.</text>
+<rect x="344" y="612" width="272" height="246" rx="12" fill="#11131D" stroke="#2B2F4A" stroke-width="1"/>
+<rect x="344" y="612" width="272" height="80" rx="12" fill="rgba(74,158,255,0.06)"/>
+<text x="360" y="644" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#7DCFFF">▸ LinguAI</text>
+  <text x="360.0" y="668" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">GenAI language-learning app — chat with</text>
+  <text x="360.0" y="686" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">AI personas, polyglot translation</text>
+  <text x="360.0" y="704" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">puzzles scored via embeddings, streaming</text>
+  <text x="360.0" y="722" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">content generation/rewrite/review, skill</text>
+  <text x="360.0" y="740" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">assessments. FastAPI + Postgres + Ollama</text>
+  <text x="360.0" y="758" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">backend, strict-MVVM NiceGUI + </text>
+  <rect x="548.0" y="747" width="26.0" height="15" rx="3" fill="#1A1E30" stroke="rgba(125,207,255,0.25)" stroke-width="0.7"/>
+  <text x="552.0" y="758" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#7DCFFF">VMx</text>
+  <text x="360.0" y="776" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#C0CAF5">frontend, full Docker Compose stack.</text>
 </svg>
