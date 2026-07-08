@@ -40,6 +40,7 @@
   <text x="72.0" y="252" textLength="228.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">· JupyterHub · Ray …) pre-wired behind</text>
   <text x="72.0" y="270" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">Kong. Interactive TUI wizard, selectable</text>
   <text x="72.0" y="288" textLength="162.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">tracks, one-command launch.</text>
+  <text x="72" y="306" textLength="156.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#0a7ea4">▸ thekaveh.github.io/atlas</text>
 <rect x="344" y="88" width="272" height="246" rx="12" fill="#f4f5f9" stroke="#c2c7db" stroke-width="1"/>
 <rect x="344" y="88" width="272" height="80" rx="12" fill="rgba(46,125,233,0.08)"/>
 <text x="360" y="120" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#0a7ea4">▸ rag-showcase</text>
@@ -52,6 +53,7 @@
   <text x="360.0" y="252" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">reproducible LLM judge-panel harness</text>
   <text x="360.0" y="270" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">that measures which approach wins on</text>
   <text x="360.0" y="288" textLength="138.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">which kind of question.</text>
+  <text x="360" y="306" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#0a7ea4">▸ thekaveh.github.io/rag-showcase</text>
 <rect x="632" y="88" width="272" height="246" rx="12" fill="#f4f5f9" stroke="#c2c7db" stroke-width="1"/>
 <rect x="632" y="88" width="272" height="80" rx="12" fill="rgba(46,125,233,0.08)"/>
 <text x="648" y="120" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#0a7ea4">▸ NNx</text>
@@ -81,6 +83,7 @@
   <rect x="116.0" y="521" width="26.0" height="15" rx="3" fill="#e3e6f0" stroke="rgba(10,126,164,0.30)" stroke-width="0.7"/>
   <text x="120.0" y="532" textLength="18.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#0a7ea4">nnx</text>
   <text x="144.0" y="532" textLength="54.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052"> toolkit.</text>
+  <text x="72" y="550" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#0a7ea4">▸ thekaveh.github.io/ml-eng-lab</text>
 <rect x="344" y="350" width="272" height="246" rx="12" fill="#f4f5f9" stroke="#c2c7db" stroke-width="1"/>
 <rect x="344" y="350" width="272" height="80" rx="12" fill="rgba(46,125,233,0.08)"/>
 <text x="360" y="382" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#0a7ea4">▸ data-eng-lab</text>
@@ -93,8 +96,8 @@
   <text x="360.0" y="514" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">and BI, Redpanda streaming, and a</text>
   <text x="360.0" y="532" textLength="174.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">medallion architecture across</text>
   <text x="360.0" y="550" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">bronze, silver, and gold layers</text>
-  <text x="360.0" y="568" textLength="186.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">using Docker Compose to run the</text>
-  <text x="360.0" y="586" textLength="90.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">Atlas platform.</text>
+    <text x="360.0" y="568" textLength="216.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">via Docker Compose (Atlas platform).</text>
+    <text x="360.0" y="586" textLength="198.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#0a7ea4">▸ thekaveh.github.io/data-eng-lab</text>
 <rect x="632" y="350" width="272" height="246" rx="12" fill="#f4f5f9" stroke="#c2c7db" stroke-width="1"/>
 <rect x="632" y="350" width="272" height="80" rx="12" fill="rgba(46,125,233,0.08)"/>
 <text x="648" y="382" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#0a7ea4">▸ VMx</text>
@@ -107,6 +110,7 @@
   <text x="648.0" y="514" textLength="234.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">Reactive-first (Rx · RxJS · reactivex ·</text>
   <text x="648.0" y="532" textLength="240.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">Combine). Published on NuGet, PyPI, npm,</text>
   <text x="648.0" y="550" textLength="48.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="500" fill="#2b3052">SwiftPM.</text>
+  <text x="648" y="568" textLength="144.0" lengthAdjust="spacingAndGlyphs" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="11" font-weight="600" fill="#0a7ea4">▸ thekaveh.github.io/VMx</text>
 <rect x="56" y="612" width="272" height="246" rx="12" fill="#f4f5f9" stroke="#c2c7db" stroke-width="1"/>
 <rect x="56" y="612" width="272" height="80" rx="12" fill="rgba(46,125,233,0.08)"/>
 <text x="72" y="644" font-family='"JetBrains Mono","SFMono-Regular","Cascadia Code","Menlo","Consolas",monospace' font-size="14" font-weight="700" fill="#0a7ea4">▸ aws-tui</text>
