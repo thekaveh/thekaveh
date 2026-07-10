@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A GitHub **profile** repo (`thekaveh/thekaveh`) — its `README.md` is what renders at github.com/thekaveh. There is no application, no build, no tests, no dependencies. You edit hand-authored SVG + a thin markdown wrapper and verify by rendering.
 
-This repo is one half of a **two-repo profile system**. Both repos present the *same* Tokyo Night "terminal session" profile — same hero, projects, skills (7 categories, 134 badges), and connect content — in two rendering environments:
+This repo is one half of a **two-repo profile system**. Both repos present the *same* Tokyo Night "terminal session" profile — same hero, projects, skills (7 categories, 227 badges), and connect content — in two rendering environments:
 
 | Repo | Path | Role | Tech |
 |------|------|------|------|
