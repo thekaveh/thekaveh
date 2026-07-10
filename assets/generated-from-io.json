@@ -1,0 +1,127 @@
+{
+  "generatedFrom": "/Users/kaveh/repos/thekaveh.github.io/index.html",
+  "generatedFromSha256": "5ff0e50fa0119083a73c39dd64fecc0dd0ae141d5902ec4f94d63a13d3a967e9",
+  "generatedAt": "2026-07-10T04:46:45.660Z",
+  "viewport": {
+    "width": 1180,
+    "deviceScaleFactor": 1
+  },
+  "note": "The light SVG files intentionally mirror the .io dark render until the .io source grows a first-class light theme.",
+  "failures": [],
+  "extracted": {
+    "title": "Kaveh Razavi · Lead Staff Software Engineer · Data, ML & GenAI Systems",
+    "tagline": [
+      "Lead Staff Software Engineer",
+      "//",
+      "Data, ML & GenAI Systems",
+      "//",
+      "Spark · Airflow · AWS · Agentic AI Workflows"
+    ],
+    "identity": "const kaveh = {\n  role: \"Lead Staff Software Engineer | Data, ML & GenAI Engineering\",\n  experience: \"15+ years building software; 12+ at Comscore\",\n  trajectory: \"large-scale data engineering → ML systems & agentic AI workflows\",\n  education: [\n    \"M.Eng Computer Science (ML) @ Virginia Tech\",\n    \"M.Sc Software Engineering @ George Mason University\"\n  ],\n  currentFocus: [\n    \"production Scala/Spark pipelines\", \"AI-assisted migration workflows\",\n    \"RAG/LLM systems and evaluation\", \"open-source ML/data platforms\"\n  ],\n  operatingMode: \"prove parity, automate delivery, keep the architecture legible\"\n};",
+    "mission": "▸Building production data, ML, and GenAI systems that validate and automate legacy workflows.",
+    "projects": [
+      "▸ atlas",
+      "▸ rag-showcase",
+      "▸ NNx",
+      "▸ ml-eng-lab",
+      "▸ data-eng-lab",
+      "▸ VMx",
+      "▸ aws-tui",
+      "▸ GuideArch",
+      "▸ LinguAI"
+    ],
+    "skillCategories": [
+      "Languages & Editors",
+      "DevOps & Tooling",
+      "Backend, APIs, UI & Architecture",
+      "Cloud & Distributed",
+      "Data Engineering & Storage",
+      "Machine Learning",
+      "GenAI"
+    ],
+    "skillCounts": [
+      {
+        "title": "Languages & Editors",
+        "count": "18 total",
+        "prompt": "$ cat ~/skills/languages-editors.md"
+      },
+      {
+        "title": "DevOps & Tooling",
+        "count": "30 total",
+        "prompt": "$ cat ~/skills/devops-tooling.md"
+      },
+      {
+        "title": "Backend, APIs, UI & Architecture",
+        "count": "45 total",
+        "prompt": "$ cat ~/skills/backend-apis-ui.md"
+      },
+      {
+        "title": "Cloud & Distributed",
+        "count": "11 total",
+        "prompt": "$ cat ~/skills/cloud-distributed.md"
+      },
+      {
+        "title": "Data Engineering & Storage",
+        "count": "37 total",
+        "prompt": "$ cat ~/skills/data-eng-storage.md"
+      },
+      {
+        "title": "Machine Learning",
+        "count": "36 total",
+        "prompt": "$ cat ~/skills/ml.md"
+      },
+      {
+        "title": "GenAI",
+        "count": "50 total",
+        "prompt": "$ cat ~/skills/genai.md"
+      }
+    ],
+    "connect": [
+      "▸ LinkedIn",
+      "▸ Email",
+      "▸ GitHub"
+    ]
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "selector": "#hero",
+      "href": "https://thekaveh.github.io/#hero",
+      "file": "assets/profile-hero.svg",
+      "lightFile": "assets/profile-hero-light.svg",
+      "width": 1092,
+      "height": 1024,
+      "pngSha256": "4ff76752d2f354701369980149a9a4d04f4cabe4dc19f118166d816131ea6552"
+    },
+    {
+      "id": "projects",
+      "selector": "#projects",
+      "href": "https://thekaveh.github.io/#projects",
+      "file": "assets/section-projects.svg",
+      "lightFile": "assets/section-projects-light.svg",
+      "width": 1092,
+      "height": 1025,
+      "pngSha256": "2682b7645db6e589f27137f92d344ed5edc9eb4a3d88007e58f21a1aafef73dd"
+    },
+    {
+      "id": "skills",
+      "selector": "#skills",
+      "href": "https://thekaveh.github.io/#skills",
+      "file": "assets/section-skills.svg",
+      "lightFile": "assets/section-skills-light.svg",
+      "width": 1092,
+      "height": 2503,
+      "pngSha256": "81629711afc547c27706d26f03e2441f5ae35b0c29d818e37b2f369d640b47c1"
+    },
+    {
+      "id": "connect",
+      "selector": "#connect",
+      "href": "https://thekaveh.github.io/#connect",
+      "file": "assets/section-connect.svg",
+      "lightFile": "assets/section-connect-light.svg",
+      "width": 1092,
+      "height": 223,
+      "pngSha256": "5509478f06d23bb990f6a8ffa802ba00806bfa4848520b15532a96390169bdea"
+    }
+  ]
+}
