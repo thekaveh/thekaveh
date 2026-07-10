@@ -1,7 +1,7 @@
 {
   "generatedFrom": "/Users/kaveh/repos/thekaveh.github.io/index.html",
   "generatedFromSha256": "cd384727f6d9531e40b601e593bc906b02fcd19dec3c344c4fde5dea8e88fd74",
-  "generatedAt": "2026-07-10T04:59:20.202Z",
+  "generatedAt": "2026-07-10T05:09:57.214Z",
   "viewport": {
     "width": 1180,
     "deviceScaleFactor": 1
@@ -120,7 +120,7 @@
       "file": "assets/section-connect.svg",
       "lightFile": "assets/section-connect-light.svg",
       "width": 1092,
-      "height": 223,
+      "height": 224,
       "pngSha256": "5509478f06d23bb990f6a8ffa802ba00806bfa4848520b15532a96390169bdea"
     }
   ]

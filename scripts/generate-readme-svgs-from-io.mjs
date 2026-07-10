@@ -33,6 +33,16 @@ function escapeXml(value) {
   })[char]);
 }
 
+function pngDimensions(buffer) {
+  if (buffer.toString("ascii", 1, 4) !== "PNG") {
+    throw new Error("Expected a PNG screenshot buffer");
+  }
+  return {
+    width: buffer.readUInt32BE(16),
+    height: buffer.readUInt32BE(20),
+  };
+}
+
 async function loadPlaywright() {
   try {
     return require("playwright");
@@ -122,9 +132,8 @@ async function main() {
       throw new Error(`Could not locate ${section.selector}`);
     }
 
-    const width = Math.ceil(box.width);
-    const height = Math.ceil(box.height);
     const png = await locator.screenshot({ type: "png", animations: "disabled", timeout: 120000 });
+    const { width, height } = pngDimensions(png);
     const svg = buildSvg({ width, height, png, section, sourceHash });
 
     fs.writeFileSync(path.join(outDir, section.file), svg);
