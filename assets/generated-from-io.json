@@ -1,7 +1,7 @@
 {
   "generatedFrom": "/Users/kaveh/repos/thekaveh.github.io/index.html",
-  "generatedFromSha256": "cd384727f6d9531e40b601e593bc906b02fcd19dec3c344c4fde5dea8e88fd74",
-  "generatedAt": "2026-07-10T05:09:57.214Z",
+  "generatedFromSha256": "d9ae4482afd7a32a8b5db6947525313ec45f671391e39f2bdc125685e2cf0727",
+  "generatedAt": "2026-07-11T23:07:59.476Z",
   "viewport": {
     "width": 1180,
     "deviceScaleFactor": 1
@@ -101,7 +101,7 @@
       "lightFile": "assets/section-projects-light.svg",
       "width": 1092,
       "height": 1025,
-      "pngSha256": "2682b7645db6e589f27137f92d344ed5edc9eb4a3d88007e58f21a1aafef73dd"
+      "pngSha256": "e0462d179ff088c85ca7d36d3380cd3238515c0d3e6296ec346bc0e84e834657"
     },
     {
       "id": "skills",
