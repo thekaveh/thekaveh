@@ -1,7 +1,7 @@
 {
   "generatedFrom": "/Users/kaveh/repos/thekaveh.github.io/index.html",
-  "generatedFromSha256": "e5a15684342fc146004e69836adc4a83816aecb736a5b7f6ba34850f02e83ed2",
-  "generatedAt": "2026-07-12T05:06:44.730Z",
+  "generatedFromSha256": "4c8cd42b2814dcab6398e414d071cce5246f37b0b041be9c8e723ad76e362ace",
+  "generatedAt": "2026-07-12T17:20:10.964Z",
   "viewport": {
     "width": 1180,
     "deviceScaleFactor": 1
@@ -12,24 +12,52 @@
     "title": "Kaveh Razavi · Lead Staff Software Engineer · Data, ML & GenAI Systems",
     "tagline": [
       "Lead Staff Software Engineer",
-      "Data, ML & GenAI Systems",
-      "Spark · Airflow · AWS · Agentic AI Workflows"
+      "Data, ML & GenAI Engineering",
+      "AI-assisted production data-pipeline migrations",
+      "RAG/Agentic RAG · PyTorch · Hugging Face · OpenAI API · AWS Bedrock",
+      "Scala/Spark · Airflow/EMR · AWS S3/Iceberg · Python/Jupyter"
     ],
     "heroStatus": [
       {
         "key": "role",
         "label": "ROLE",
-        "value": "Lead Staff Software Engineer"
+        "value": "Lead Staff Software Engineer",
+        "badges": []
       },
       {
         "key": "domain",
         "label": "DOMAIN",
-        "value": "Data, ML & GenAI Systems"
+        "value": "Data, ML & GenAI Engineering",
+        "badges": []
       },
       {
-        "key": "stack",
-        "label": "STACK",
-        "value": "Spark · Airflow · AWS · Agentic AI Workflows"
+        "key": "current",
+        "label": "CURRENT",
+        "value": "AI-assisted production data-pipeline migrations",
+        "badges": []
+      },
+      {
+        "key": "ml-genai",
+        "label": "ML/GENAI",
+        "value": "RAG/Agentic RAG · PyTorch · Hugging Face · OpenAI API · AWS Bedrock",
+        "badges": [
+          "RAG/Agentic RAG",
+          "PyTorch",
+          "Hugging Face",
+          "OpenAI API",
+          "AWS Bedrock"
+        ]
+      },
+      {
+        "key": "data-systems",
+        "label": "DATA SYSTEMS",
+        "value": "Scala/Spark · Airflow/EMR · AWS S3/Iceberg · Python/Jupyter",
+        "badges": [
+          "Scala/Spark",
+          "Airflow/EMR",
+          "AWS S3/Iceberg",
+          "Python/Jupyter"
+        ]
       }
     ],
     "identity": "const kaveh = {\n  role: \"Lead Staff Software Engineer | Data, ML & GenAI Engineering\",\n  experience: \"15+ years building software; 12+ at Comscore\",\n  trajectory: \"large-scale data engineering → ML systems & agentic AI workflows\",\n  education: [\n    \"M.Eng Computer Science (ML) @ Virginia Tech\",\n    \"M.Sc Software Engineering @ George Mason University\"\n  ],\n  currentFocus: [\n    \"production Scala/Spark pipelines\", \"AI-assisted migration workflows\",\n    \"RAG/LLM systems and evaluation\", \"open-source ML/data platforms\"\n  ],\n  operatingMode: \"prove parity, automate delivery, keep the architecture legible\"\n};",
@@ -105,8 +133,8 @@
       "file": "assets/profile-hero.svg",
       "lightFile": "assets/profile-hero-light.svg",
       "width": 1092,
-      "height": 1105,
-      "pngSha256": "c27aec390473f0721e9e3d63ac353f0a74dac3f10bc25dff6e8696e02fcc37c0"
+      "height": 1216,
+      "pngSha256": "4eab8e84e38ba85d6e9056abe9899ae178b78d7ba8e4ad2abc9b133ea561623d"
     },
     {
       "id": "projects",
@@ -116,7 +144,7 @@
       "lightFile": "assets/section-projects-light.svg",
       "width": 1092,
       "height": 982,
-      "pngSha256": "e3a24a68a04f8c085d22c57d83ec4963f2a1c241d9a458881a3f499d10790227"
+      "pngSha256": "80f9a62faceb694ceb4809f9c7fc91191b839f0bfbcc66c3716ab33eaac06316"
     },
     {
       "id": "skills",
@@ -126,7 +154,7 @@
       "lightFile": "assets/section-skills-light.svg",
       "width": 1092,
       "height": 2503,
-      "pngSha256": "7ff1247d23ff766163ec838a317f2e7a3eb360b46688aaf6547ee82302e1f143"
+      "pngSha256": "e68b17ecd25bce2a4201bb3bcd62700645383e4c5b2b4b13e45f149792c7d8ff"
     },
     {
       "id": "connect",
@@ -136,7 +164,7 @@
       "lightFile": "assets/section-connect-light.svg",
       "width": 1092,
       "height": 224,
-      "pngSha256": "651b1a04a419ddd99ebe2a59a4751969b024baf51251bcd92a7f7b45b6cb3ecd"
+      "pngSha256": "b56fbb8f09e66206a55eb12b2664b5147c0604f0908dcc5411577ea0b903927a"
     }
   ]
 }

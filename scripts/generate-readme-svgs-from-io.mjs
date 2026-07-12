@@ -101,11 +101,18 @@ async function main() {
     const legacyTagline = [...document.querySelectorAll("#hero .tagline span")]
       .map((el) => el.textContent.trim())
       .filter(Boolean);
-    const heroStatus = [...document.querySelectorAll("#hero .status-item")].map((item) => ({
-      key: item.getAttribute("data-status"),
-      label: item.querySelector(".status-key")?.textContent.trim() || "",
-      value: item.querySelector(".status-value")?.textContent.trim() || "",
-    }));
+    const heroStatus = [...document.querySelectorAll("#hero .status-row")].map((row) => {
+      const badges = [...row.querySelectorAll(".status-badge")]
+        .map((badge) => badge.textContent.trim())
+        .filter(Boolean);
+
+      return {
+        key: row.getAttribute("data-status"),
+        label: row.querySelector(".status-label")?.textContent.trim() || "",
+        value: row.querySelector(".status-text")?.textContent.trim() || badges.join(" · "),
+        badges,
+      };
+    });
 
     return {
       title: document.title,
