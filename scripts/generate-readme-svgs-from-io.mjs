@@ -97,20 +97,32 @@ async function main() {
 
   const source = fs.readFileSync(ioIndex);
   const sourceHash = sha256(source);
-  const extracted = await page.evaluate(() => ({
-    title: document.title,
-    tagline: [...document.querySelectorAll("#hero .tagline span")].map((el) => el.textContent.trim()).filter(Boolean),
-    identity: document.querySelector("#hero pre.ts")?.innerText || "",
-    mission: document.querySelector("#hero .mission")?.innerText || "",
-    projects: [...document.querySelectorAll("#projects .card h3")].map((el) => el.textContent.trim()),
-    skillCategories: [...document.querySelectorAll("#skills .cat .head h3")].map((el) => el.textContent.trim()),
-    skillCounts: [...document.querySelectorAll("#skills .cat .head")].map((head) => ({
-      title: head.querySelector("h3")?.textContent.trim(),
-      count: head.querySelector(".count")?.textContent.trim(),
-      prompt: head.querySelector(".ps")?.textContent.trim(),
-    })),
-    connect: [...document.querySelectorAll("#connect .service .label")].map((el) => el.textContent.trim()),
-  }));
+  const extracted = await page.evaluate(() => {
+    const legacyTagline = [...document.querySelectorAll("#hero .tagline span")]
+      .map((el) => el.textContent.trim())
+      .filter(Boolean);
+    const heroStatus = [...document.querySelectorAll("#hero .status-item")].map((item) => ({
+      key: item.getAttribute("data-status"),
+      label: item.querySelector(".status-key")?.textContent.trim() || "",
+      value: item.querySelector(".status-value")?.textContent.trim() || "",
+    }));
+
+    return {
+      title: document.title,
+      tagline: legacyTagline.length ? legacyTagline : heroStatus.map((item) => item.value).filter(Boolean),
+      heroStatus,
+      identity: document.querySelector("#hero pre.ts")?.innerText || "",
+      mission: document.querySelector("#hero .mission")?.innerText || "",
+      projects: [...document.querySelectorAll("#projects .card h3")].map((el) => el.textContent.trim()),
+      skillCategories: [...document.querySelectorAll("#skills .cat .head h3")].map((el) => el.textContent.trim()),
+      skillCounts: [...document.querySelectorAll("#skills .cat .head")].map((head) => ({
+        title: head.querySelector("h3")?.textContent.trim(),
+        count: head.querySelector(".count")?.textContent.trim(),
+        prompt: head.querySelector(".ps")?.textContent.trim(),
+      })),
+      connect: [...document.querySelectorAll("#connect .service .label")].map((el) => el.textContent.trim()),
+    };
+  });
 
   const manifest = {
     generatedFrom: ioIndex,

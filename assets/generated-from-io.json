@@ -1,7 +1,7 @@
 {
   "generatedFrom": "/Users/kaveh/repos/thekaveh.github.io/index.html",
-  "generatedFromSha256": "7bb69630319963345f967c1be0fbc17a2a7b78a7ec7ecd9f40557bab400aebea",
-  "generatedAt": "2026-07-12T04:03:30.974Z",
+  "generatedFromSha256": "e5a15684342fc146004e69836adc4a83816aecb736a5b7f6ba34850f02e83ed2",
+  "generatedAt": "2026-07-12T05:06:44.730Z",
   "viewport": {
     "width": 1180,
     "deviceScaleFactor": 1
@@ -12,10 +12,25 @@
     "title": "Kaveh Razavi · Lead Staff Software Engineer · Data, ML & GenAI Systems",
     "tagline": [
       "Lead Staff Software Engineer",
-      "//",
       "Data, ML & GenAI Systems",
-      "//",
       "Spark · Airflow · AWS · Agentic AI Workflows"
+    ],
+    "heroStatus": [
+      {
+        "key": "role",
+        "label": "ROLE",
+        "value": "Lead Staff Software Engineer"
+      },
+      {
+        "key": "domain",
+        "label": "DOMAIN",
+        "value": "Data, ML & GenAI Systems"
+      },
+      {
+        "key": "stack",
+        "label": "STACK",
+        "value": "Spark · Airflow · AWS · Agentic AI Workflows"
+      }
     ],
     "identity": "const kaveh = {\n  role: \"Lead Staff Software Engineer | Data, ML & GenAI Engineering\",\n  experience: \"15+ years building software; 12+ at Comscore\",\n  trajectory: \"large-scale data engineering → ML systems & agentic AI workflows\",\n  education: [\n    \"M.Eng Computer Science (ML) @ Virginia Tech\",\n    \"M.Sc Software Engineering @ George Mason University\"\n  ],\n  currentFocus: [\n    \"production Scala/Spark pipelines\", \"AI-assisted migration workflows\",\n    \"RAG/LLM systems and evaluation\", \"open-source ML/data platforms\"\n  ],\n  operatingMode: \"prove parity, automate delivery, keep the architecture legible\"\n};",
     "mission": "▸Building production data, ML, and GenAI systems that validate and automate legacy workflows.",
@@ -90,8 +105,8 @@
       "file": "assets/profile-hero.svg",
       "lightFile": "assets/profile-hero-light.svg",
       "width": 1092,
-      "height": 1024,
-      "pngSha256": "daa59a2c011f55b980eb19b2541f197ab031f625538718477b798b285e65c9d6"
+      "height": 1105,
+      "pngSha256": "c27aec390473f0721e9e3d63ac353f0a74dac3f10bc25dff6e8696e02fcc37c0"
     },
     {
       "id": "projects",
@@ -101,7 +116,7 @@
       "lightFile": "assets/section-projects-light.svg",
       "width": 1092,
       "height": 982,
-      "pngSha256": "c3f642891e9ac6695d673aa860d197bb305fe71f6d4932e369d803bf24a7c9a9"
+      "pngSha256": "e3a24a68a04f8c085d22c57d83ec4963f2a1c241d9a458881a3f499d10790227"
     },
     {
       "id": "skills",
@@ -111,7 +126,7 @@
       "lightFile": "assets/section-skills-light.svg",
       "width": 1092,
       "height": 2503,
-      "pngSha256": "b11ce877dcb82d260f0114d260ea999f5c994d627725707dd1d6ae54e0417d50"
+      "pngSha256": "7ff1247d23ff766163ec838a317f2e7a3eb360b46688aaf6547ee82302e1f143"
     },
     {
       "id": "connect",
@@ -121,7 +136,7 @@
       "lightFile": "assets/section-connect-light.svg",
       "width": 1092,
       "height": 224,
-      "pngSha256": "de5ba6f60c7e61f4a82fd9628e01b937a2f7024dda0f088bc6b6a314758c485b"
+      "pngSha256": "651b1a04a419ddd99ebe2a59a4751969b024baf51251bcd92a7f7b45b6cb3ecd"
     }
   ]
 }
