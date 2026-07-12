@@ -1,7 +1,7 @@
 {
   "generatedFrom": "/Users/kaveh/repos/thekaveh.github.io/index.html",
-  "generatedFromSha256": "4c8cd42b2814dcab6398e414d071cce5246f37b0b041be9c8e723ad76e362ace",
-  "generatedAt": "2026-07-12T17:20:10.964Z",
+  "generatedFromSha256": "80f7c0006e11f7f932dab1a5a20ae9408c9a6b6a35f6c58e5c980c7a11c93b24",
+  "generatedAt": "2026-07-12T17:50:51.820Z",
   "viewport": {
     "width": 1180,
     "deviceScaleFactor": 1
@@ -13,8 +13,8 @@
     "tagline": [
       "Lead Staff Software Engineer",
       "Data, ML & GenAI Engineering",
-      "AI-assisted production data-pipeline migrations",
-      "RAG/Agentic RAG · PyTorch · Hugging Face · OpenAI API · AWS Bedrock",
+      "AI-assisted legacy-to-Spark migrations · Agentic workflow benchmarking · Parity/data-quality validation · EMR Airflow production pipelines",
+      "RAG systems & LLM-as-Judge eval · PyTorch training/fine-tuning toolkit · ML/DL/GenAI notebooks · Local LLM/RAG platforms · GenAI apps with embeddings",
       "Scala/Spark · Airflow/EMR · AWS S3/Iceberg · Python/Jupyter"
     ],
     "heroStatus": [
@@ -33,19 +33,24 @@
       {
         "key": "current",
         "label": "CURRENT",
-        "value": "AI-assisted production data-pipeline migrations",
-        "badges": []
+        "value": "AI-assisted legacy-to-Spark migrations · Agentic workflow benchmarking · Parity/data-quality validation · EMR Airflow production pipelines",
+        "badges": [
+          "AI-assisted legacy-to-Spark migrations",
+          "Agentic workflow benchmarking",
+          "Parity/data-quality validation",
+          "EMR Airflow production pipelines"
+        ]
       },
       {
         "key": "ml-genai",
         "label": "ML/GENAI",
-        "value": "RAG/Agentic RAG · PyTorch · Hugging Face · OpenAI API · AWS Bedrock",
+        "value": "RAG systems & LLM-as-Judge eval · PyTorch training/fine-tuning toolkit · ML/DL/GenAI notebooks · Local LLM/RAG platforms · GenAI apps with embeddings",
         "badges": [
-          "RAG/Agentic RAG",
-          "PyTorch",
-          "Hugging Face",
-          "OpenAI API",
-          "AWS Bedrock"
+          "RAG systems & LLM-as-Judge eval",
+          "PyTorch training/fine-tuning toolkit",
+          "ML/DL/GenAI notebooks",
+          "Local LLM/RAG platforms",
+          "GenAI apps with embeddings"
         ]
       },
       {
@@ -133,8 +138,8 @@
       "file": "assets/profile-hero.svg",
       "lightFile": "assets/profile-hero-light.svg",
       "width": 1092,
-      "height": 1216,
-      "pngSha256": "4eab8e84e38ba85d6e9056abe9899ae178b78d7ba8e4ad2abc9b133ea561623d"
+      "height": 1286,
+      "pngSha256": "ba33fcf3996e70603ed3620fb19e5a121a37fe7865d4dd3be6c9dc9afbf65fac"
     },
     {
       "id": "projects",
@@ -144,7 +149,7 @@
       "lightFile": "assets/section-projects-light.svg",
       "width": 1092,
       "height": 982,
-      "pngSha256": "80f9a62faceb694ceb4809f9c7fc91191b839f0bfbcc66c3716ab33eaac06316"
+      "pngSha256": "cda33c18eaf962ae17a9678d99af0f7685bf681c079dc663a6290dac400dea37"
     },
     {
       "id": "skills",
@@ -154,7 +159,7 @@
       "lightFile": "assets/section-skills-light.svg",
       "width": 1092,
       "height": 2503,
-      "pngSha256": "e68b17ecd25bce2a4201bb3bcd62700645383e4c5b2b4b13e45f149792c7d8ff"
+      "pngSha256": "b4b92f2bfff02fd89ea6bf61182b3a23226be299264966deb1a382c3d7b2f2d6"
     },
     {
       "id": "connect",
@@ -164,7 +169,7 @@
       "lightFile": "assets/section-connect-light.svg",
       "width": 1092,
       "height": 224,
-      "pngSha256": "b56fbb8f09e66206a55eb12b2664b5147c0604f0908dcc5411577ea0b903927a"
+      "pngSha256": "6f4d43bcc878b7a0c8553e8e9b381bbc5a3637f217b236d5b9c9152711343219"
     }
   ]
 }
