@@ -1,7 +1,7 @@
 {
   "generatedFrom": "/Users/kaveh/repos/thekaveh.github.io/index.html",
-  "generatedFromSha256": "d9ae4482afd7a32a8b5db6947525313ec45f671391e39f2bdc125685e2cf0727",
-  "generatedAt": "2026-07-11T23:07:59.476Z",
+  "generatedFromSha256": "621218173f2b5d610e116905c1208f9d3894b436dc28a9be0468ee3b216d6f0d",
+  "generatedAt": "2026-07-12T03:43:15.648Z",
   "viewport": {
     "width": 1180,
     "deviceScaleFactor": 1
@@ -77,9 +77,9 @@
       }
     ],
     "connect": [
-      "▸ LinkedIn",
-      "▸ Email",
-      "▸ GitHub"
+      "▸\n          \n            \n            \n          \n          Email",
+      "▸\n          \n            \n          \n          GitHub",
+      "▸\n          \n            \n          \n          LinkedIn"
     ]
   },
   "sections": [
@@ -121,7 +121,7 @@
       "lightFile": "assets/section-connect-light.svg",
       "width": 1092,
       "height": 224,
-      "pngSha256": "5509478f06d23bb990f6a8ffa802ba00806bfa4848520b15532a96390169bdea"
+      "pngSha256": "a0ee5ab5137013364a3238e1d48f196695819fd95719f917a750bbc19942013f"
     }
   ]
 }
