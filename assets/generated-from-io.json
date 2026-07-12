@@ -1,7 +1,7 @@
 {
   "generatedFrom": "/Users/kaveh/repos/thekaveh.github.io/index.html",
-  "generatedFromSha256": "621218173f2b5d610e116905c1208f9d3894b436dc28a9be0468ee3b216d6f0d",
-  "generatedAt": "2026-07-12T03:43:15.648Z",
+  "generatedFromSha256": "7bb69630319963345f967c1be0fbc17a2a7b78a7ec7ecd9f40557bab400aebea",
+  "generatedAt": "2026-07-12T04:03:30.974Z",
   "viewport": {
     "width": 1180,
     "deviceScaleFactor": 1
@@ -91,7 +91,7 @@
       "lightFile": "assets/profile-hero-light.svg",
       "width": 1092,
       "height": 1024,
-      "pngSha256": "4ff76752d2f354701369980149a9a4d04f4cabe4dc19f118166d816131ea6552"
+      "pngSha256": "daa59a2c011f55b980eb19b2541f197ab031f625538718477b798b285e65c9d6"
     },
     {
       "id": "projects",
@@ -100,8 +100,8 @@
       "file": "assets/section-projects.svg",
       "lightFile": "assets/section-projects-light.svg",
       "width": 1092,
-      "height": 1025,
-      "pngSha256": "e0462d179ff088c85ca7d36d3380cd3238515c0d3e6296ec346bc0e84e834657"
+      "height": 982,
+      "pngSha256": "c3f642891e9ac6695d673aa860d197bb305fe71f6d4932e369d803bf24a7c9a9"
     },
     {
       "id": "skills",
@@ -111,7 +111,7 @@
       "lightFile": "assets/section-skills-light.svg",
       "width": 1092,
       "height": 2503,
-      "pngSha256": "81629711afc547c27706d26f03e2441f5ae35b0c29d818e37b2f369d640b47c1"
+      "pngSha256": "b11ce877dcb82d260f0114d260ea999f5c994d627725707dd1d6ae54e0417d50"
     },
     {
       "id": "connect",
@@ -121,7 +121,7 @@
       "lightFile": "assets/section-connect-light.svg",
       "width": 1092,
       "height": 224,
-      "pngSha256": "a0ee5ab5137013364a3238e1d48f196695819fd95719f917a750bbc19942013f"
+      "pngSha256": "de5ba6f60c7e61f4a82fd9628e01b937a2f7024dda0f088bc6b6a314758c485b"
     }
   ]
 }
