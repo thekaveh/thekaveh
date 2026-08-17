@@ -20,6 +20,6 @@
   <a href="https://thekaveh.github.io/#connect"><picture><source media="(prefers-color-scheme: light)" srcset="./assets/section-connect-light.svg" /><img src="./assets/section-connect.svg" alt="Connect" width="100%" /></picture></a>
 </div>
 
-<p align="center"><sub><strong>Reach out:</strong> <a href="https://linkedin.com/in/kavehrazavi">LinkedIn</a> · <a href="mailto:kaveh.razavi@gmail.com">Email</a> · <a href="https://github.com/thekaveh">GitHub</a></sub></p>
+<p align="center"><sub><strong>Reach out:</strong> <a href="mailto:kaveh.razavi@gmail.com">Email</a> · <a href="https://github.com/thekaveh">GitHub</a> · <a href="https://linkedin.com/in/kavehrazavi">LinkedIn</a></sub></p>
 
 <!-- terminal profile · Tokyo Night palette · Atlas LOGO_GRADIENT hero · interactive version at https://thekaveh.github.io -->
