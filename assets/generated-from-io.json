@@ -1,7 +1,7 @@
 {
   "generatedFrom": "/Users/kaveh/repos/thekaveh.github.io/index.html",
-  "generatedFromSha256": "80f7c0006e11f7f932dab1a5a20ae9408c9a6b6a35f6c58e5c980c7a11c93b24",
-  "generatedAt": "2026-07-12T17:50:51.820Z",
+  "generatedFromSha256": "14727956ef78c9d5fb429f0441a712282af59cb6c0e206990d3fdbfd2189f17d",
+  "generatedAt": "2026-08-17T00:41:46.582Z",
   "viewport": {
     "width": 1180,
     "deviceScaleFactor": 1
@@ -9,12 +9,12 @@
   "note": "The light SVG files intentionally mirror the .io dark render until the .io source grows a first-class light theme.",
   "failures": [],
   "extracted": {
-    "title": "Kaveh Razavi · Lead Staff Software Engineer · Data, ML & GenAI Systems",
+    "title": "Kaveh Razavi · Lead Staff Software Engineer · Data Platforms, ML Systems & GenAI",
     "tagline": [
       "Lead Staff Software Engineer",
-      "Data, ML & GenAI Engineering",
-      "AI-assisted legacy-to-Spark migrations · Agentic workflow benchmarking · Parity/data-quality validation · EMR Airflow production pipelines",
-      "RAG systems & LLM-as-Judge eval · PyTorch training/fine-tuning toolkit · ML/DL/GenAI notebooks · Local LLM/RAG platforms · GenAI apps with embeddings",
+      "Data Platforms, ML Systems & GenAI",
+      "AI-assisted legacy-pipeline migrations · RAG strategy evaluation · ML/DL experimentation · Self-hosted GenAI infrastructure",
+      "PyTorch training/fine-tuning (NNx) · ML/DL experimentation (ml-eng-lab) · RAG strategy evaluation (rag-showcase) · Self-hosted GenAI infrastructure (atlas) · GenAI applications with embeddings",
       "Scala/Spark · Airflow/EMR · AWS S3/Iceberg · Python/Jupyter"
     ],
     "heroStatus": [
@@ -27,30 +27,30 @@
       {
         "key": "domain",
         "label": "DOMAIN",
-        "value": "Data, ML & GenAI Engineering",
+        "value": "Data Platforms, ML Systems & GenAI",
         "badges": []
       },
       {
         "key": "current",
         "label": "CURRENT",
-        "value": "AI-assisted legacy-to-Spark migrations · Agentic workflow benchmarking · Parity/data-quality validation · EMR Airflow production pipelines",
+        "value": "AI-assisted legacy-pipeline migrations · RAG strategy evaluation · ML/DL experimentation · Self-hosted GenAI infrastructure",
         "badges": [
-          "AI-assisted legacy-to-Spark migrations",
-          "Agentic workflow benchmarking",
-          "Parity/data-quality validation",
-          "EMR Airflow production pipelines"
+          "AI-assisted legacy-pipeline migrations",
+          "RAG strategy evaluation",
+          "ML/DL experimentation",
+          "Self-hosted GenAI infrastructure"
         ]
       },
       {
         "key": "ml-genai",
         "label": "ML/GENAI",
-        "value": "RAG systems & LLM-as-Judge eval · PyTorch training/fine-tuning toolkit · ML/DL/GenAI notebooks · Local LLM/RAG platforms · GenAI apps with embeddings",
+        "value": "PyTorch training/fine-tuning (NNx) · ML/DL experimentation (ml-eng-lab) · RAG strategy evaluation (rag-showcase) · Self-hosted GenAI infrastructure (atlas) · GenAI applications with embeddings",
         "badges": [
-          "RAG systems & LLM-as-Judge eval",
-          "PyTorch training/fine-tuning toolkit",
-          "ML/DL/GenAI notebooks",
-          "Local LLM/RAG platforms",
-          "GenAI apps with embeddings"
+          "PyTorch training/fine-tuning (NNx)",
+          "ML/DL experimentation (ml-eng-lab)",
+          "RAG strategy evaluation (rag-showcase)",
+          "Self-hosted GenAI infrastructure (atlas)",
+          "GenAI applications with embeddings"
         ]
       },
       {
@@ -65,8 +65,8 @@
         ]
       }
     ],
-    "identity": "const kaveh = {\n  role: \"Lead Staff Software Engineer | Data, ML & GenAI Engineering\",\n  experience: \"15+ years building software; 12+ at Comscore\",\n  trajectory: \"large-scale data engineering → ML systems & agentic AI workflows\",\n  education: [\n    \"M.Eng Computer Science (ML) @ Virginia Tech\",\n    \"M.Sc Software Engineering @ George Mason University\"\n  ],\n  currentFocus: [\n    \"production Scala/Spark pipelines\", \"AI-assisted migration workflows\",\n    \"RAG/LLM systems and evaluation\", \"open-source ML/data platforms\"\n  ],\n  operatingMode: \"prove parity, automate delivery, keep the architecture legible\"\n};",
-    "mission": "▸Building production data, ML, and GenAI systems that validate and automate legacy workflows.",
+    "identity": "const kaveh = {\n  role: \"Lead Staff Software Engineer | Data Platforms, ML Systems & GenAI\",\n  experience: \"20+ years building software; 12 years at Comscore\",\n  trajectory: \"data platforms → ML systems & GenAI\",\n  education: [\n    \"M.Eng Computer Science (ML) @ Virginia Tech\",\n    \"M.Sc Software Engineering @ George Mason University\"\n  ],\n  currentFocus: [\n    \"production data platforms\", \"AI-assisted pipeline migrations\",\n    \"PyTorch ML/DL experimentation\", \"RAG evaluation and GenAI infrastructure\"\n  ],\n  operatingMode: \"prove parity, automate delivery, keep the architecture legible\"\n};",
+    "mission": "▸Building production data platforms, ML systems, and GenAI applications.",
     "projects": [
       "▸ atlas",
       "▸ rag-showcase",
@@ -80,48 +80,48 @@
     ],
     "skillCategories": [
       "Languages & Editors",
-      "DevOps & Tooling",
-      "Backend, APIs, UI & Architecture",
-      "Cloud & Distributed",
-      "Data Engineering & Storage",
-      "Machine Learning",
-      "GenAI"
+      "Data Platforms",
+      "ML & GenAI",
+      "Cloud, DevOps & Build",
+      "Backend, UI & Cross-Platform",
+      "Architecture, Quality & Methods",
+      "Delivery & Operations"
     ],
     "skillCounts": [
       {
         "title": "Languages & Editors",
-        "count": "18 total",
+        "count": "24 total",
         "prompt": "$ cat ~/skills/languages-editors.md"
       },
       {
-        "title": "DevOps & Tooling",
-        "count": "30 total",
-        "prompt": "$ cat ~/skills/devops-tooling.md"
+        "title": "Data Platforms",
+        "count": "25 total",
+        "prompt": "$ cat ~/skills/data-platforms.md"
       },
       {
-        "title": "Backend, APIs, UI & Architecture",
-        "count": "45 total",
-        "prompt": "$ cat ~/skills/backend-apis-ui.md"
+        "title": "ML & GenAI",
+        "count": "56 total",
+        "prompt": "$ cat ~/skills/ml-genai.md"
       },
       {
-        "title": "Cloud & Distributed",
-        "count": "11 total",
-        "prompt": "$ cat ~/skills/cloud-distributed.md"
+        "title": "Cloud, DevOps & Build",
+        "count": "21 total",
+        "prompt": "$ cat ~/skills/cloud-devops-build.md"
       },
       {
-        "title": "Data Engineering & Storage",
-        "count": "37 total",
-        "prompt": "$ cat ~/skills/data-eng-storage.md"
+        "title": "Backend, UI & Cross-Platform",
+        "count": "23 total",
+        "prompt": "$ cat ~/skills/backend-ui-cross-platform.md"
       },
       {
-        "title": "Machine Learning",
-        "count": "36 total",
-        "prompt": "$ cat ~/skills/ml.md"
+        "title": "Architecture, Quality & Methods",
+        "count": "17 total",
+        "prompt": "$ cat ~/skills/architecture-quality-methods.md"
       },
       {
-        "title": "GenAI",
-        "count": "50 total",
-        "prompt": "$ cat ~/skills/genai.md"
+        "title": "Delivery & Operations",
+        "count": "8 total",
+        "prompt": "$ cat ~/skills/delivery-operations.md"
       }
     ],
     "connect": [
@@ -138,8 +138,8 @@
       "file": "assets/profile-hero.svg",
       "lightFile": "assets/profile-hero-light.svg",
       "width": 1092,
-      "height": 1286,
-      "pngSha256": "ba33fcf3996e70603ed3620fb19e5a121a37fe7865d4dd3be6c9dc9afbf65fac"
+      "height": 1255,
+      "pngSha256": "b5ca2e9a47cd056c797886a667aee2f746417b09af616dca8a3f9d72881b0812"
     },
     {
       "id": "projects",
@@ -148,8 +148,8 @@
       "file": "assets/section-projects.svg",
       "lightFile": "assets/section-projects-light.svg",
       "width": 1092,
-      "height": 982,
-      "pngSha256": "cda33c18eaf962ae17a9678d99af0f7685bf681c079dc663a6290dac400dea37"
+      "height": 926,
+      "pngSha256": "cab6c5c6824c92b91bdeb59343bd2688be05464047e58a172a69797892f7d97d"
     },
     {
       "id": "skills",
@@ -158,8 +158,8 @@
       "file": "assets/section-skills.svg",
       "lightFile": "assets/section-skills-light.svg",
       "width": 1092,
-      "height": 2503,
-      "pngSha256": "b4b92f2bfff02fd89ea6bf61182b3a23226be299264966deb1a382c3d7b2f2d6"
+      "height": 1879,
+      "pngSha256": "d4d4441166560a72dd8eae1825f1c05085b0af2298dbdf841459c286f12740a8"
     },
     {
       "id": "connect",
@@ -169,7 +169,7 @@
       "lightFile": "assets/section-connect-light.svg",
       "width": 1092,
       "height": 224,
-      "pngSha256": "6f4d43bcc878b7a0c8553e8e9b381bbc5a3637f217b236d5b9c9152711343219"
+      "pngSha256": "c686b0a67376742a44a56319d2b399f65a7f7277275e160b37a66808b25cd24b"
     }
   ]
 }
