@@ -1,7 +1,7 @@
 {
   "generatedFrom": "/Users/kaveh/repos/thekaveh.github.io/index.html",
-  "generatedFromSha256": "14727956ef78c9d5fb429f0441a712282af59cb6c0e206990d3fdbfd2189f17d",
-  "generatedAt": "2026-08-17T00:41:46.582Z",
+  "generatedFromSha256": "16e1add81ed1b180b2741049597aeabf45ef84ea1dc51b954daf045c6ca3ef50",
+  "generatedAt": "2026-08-27T04:01:00.577Z",
   "viewport": {
     "width": 1180,
     "deviceScaleFactor": 1
@@ -126,6 +126,7 @@
     ],
     "connect": [
       "▸\n          \n            \n            \n          \n          Email",
+      "▸\n          \n            \n            \n          \n          Sepanta.ai",
       "▸\n          \n            \n          \n          GitHub",
       "▸\n          \n            \n          \n          LinkedIn"
     ]
@@ -169,7 +170,7 @@
       "lightFile": "assets/section-connect-light.svg",
       "width": 1092,
       "height": 224,
-      "pngSha256": "c686b0a67376742a44a56319d2b399f65a7f7277275e160b37a66808b25cd24b"
+      "pngSha256": "684cf2fe4ce8168d7b77ad530c8a0799b0e982e0fd7290adf41a22e5e538faaa"
     }
   ]
 }
