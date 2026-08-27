@@ -64,4 +64,4 @@
 - [x] Run `git diff --check` and confirm only the planned files changed.
 - [x] Commit the `.io` source changes on `codex/add-sepanta-contact`.
 - [x] Commit the generated README/SVG mirror on `codex/add-sepanta-contact`.
-- [ ] Push both feature branches without merging into `main`.
+- [x] Push both feature branches without merging into `main`.
